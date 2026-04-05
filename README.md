@@ -1,4 +1,4 @@
-# 🚀 📡 SonyLiv Live Events Data Hub by Sayan
+# 🚀 📡 SonyLiv Live Events Data Hub by Sayan Pal (sayanpal-hue)
 
 [![GitHub Workflow Status](https://github.com/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST/actions/workflows/update_sonyliv_json.yml/badge.svg)](https://github.com/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST/actions) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST)](https://github.com/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST/commits/main)
@@ -54,4 +54,4 @@ We extend our sincere thanks to the creator of **drmlive/sliv-live-events** for 
 
 ## 👤 Project Developed by
 
-This advanced auto-sync project is developed and maintained by **Sayan**.
+This advanced auto-sync project is developed and maintained by **Sayan Pal (sayanpal-hue)**.
