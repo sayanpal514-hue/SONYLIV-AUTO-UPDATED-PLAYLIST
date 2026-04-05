@@ -1,4 +1,4 @@
-# 🚀 📡 FanCode Live Events Data Hub by Sayan
+# 🚀 📡 FanCode Live Events Data Hub by Sayan Pal (sportlive18)
 
 [![GitHub Workflow Status](https://github.com/sportlive18/Fancode-Playlist-Autoupdate/actions/workflows/update_fancode_json.yml/badge.svg)](https://github.com/sportlive18/Fancode-Playlist-Autoupdate/actions) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/sportlive18/Fancode-Playlist-Autoupdate)](https://github.com/sportlive18/Fancode-Playlist-Autoupdate/commits/main)
@@ -54,4 +54,4 @@ We extend our sincere thanks to the creator of **drmlive/fancode-live-events** f
 
 ## 👤 Project Developed by
 
-This advanced auto-sync project is developed and maintained by **Sayan**.
+This advanced auto-sync project is developed and maintained by **Sayan Pal (sportlive18)**.
