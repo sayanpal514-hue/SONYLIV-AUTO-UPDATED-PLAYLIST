@@ -1,7 +1,7 @@
 # 🚀 📡 SonyLiv Live Events Data Hub by Sayan
 
-[![GitHub Workflow Status](https://github.com/sportlive18/Fancode-Playlist-Autoupdate/actions/workflows/update_sonyliv_json.yml/badge.svg)](https://github.com/sportlive18/Fancode-Playlist-Autoupdate/actions) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/sportlive18/Fancode-Playlist-Autoupdate)](https://github.com/sportlive18/Fancode-Playlist-Autoupdate/commits/main)
+[![GitHub Workflow Status](https://github.com/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST/actions/workflows/update_sonyliv_json.yml/badge.svg)](https://github.com/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST/actions) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST)](https://github.com/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST/commits/main)
 
 > ✨ **A high-availability, fully automated data synchronization project ensuring the SonyLiv live events list is always fresh and reliable.**
 
@@ -9,11 +9,11 @@
 
 | Metric | Status |
 | :---: | :--- |
-| **Workflow Status** | [![GitHub Workflow Status](https://github.com/sportlive18/Fancode-Playlist-Autoupdate/actions/workflows/update_sonyliv_json.yml/badge.svg)](https://github.com/sportlive18/Fancode-Playlist-Autoupdate/actions) |
-| **Total Stars** | [![GitHub stars](https://img.shields.io/github/stars/sportlive18/Fancode-Playlist-Autoupdate?style=social)](https://github.com/sportlive18/Fancode-Playlist-Autoupdate/stargazers) |
-| **Total Forks** | [![GitHub forks](https://img.shields.io/github/forks/sportlive18/Fancode-Playlist-Autoupdate?style=social)](https://github.com/sportlive18/Fancode-Playlist-Autoupdate/network/members) |
-| **Total Visitors** | ![](https://komarev.com/ghpvc/?username=sportlive18&repo=Fancode-Playlist-Autoupdate&color=blueviolet&style=flat) |
-| **Repo Size** | [![GitHub repo size](https://img.shields.io/github/repo-size/sportlive18/Fancode-Playlist-Autoupdate)](https://github.com/sportlive18/Fancode-Playlist-Autoupdate) |
+| **Workflow Status** | [![GitHub Workflow Status](https://github.com/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST/actions/workflows/update_sonyliv_json.yml/badge.svg)](https://github.com/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST/actions) |
+| **Total Stars** | [![GitHub stars](https://img.shields.io/github/stars/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST?style=social)](https://github.com/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST/stargazers) |
+| **Total Forks** | [![GitHub forks](https://img.shields.io/github/forks/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST?style=social)](https://github.com/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST/network/members) |
+| **Total Visitors** | ![](https://komarev.com/ghpvc/?username=sayanpal514-hue&repo=SONYLIV-AUTO-UPDATED-PLAYLIST&color=blueviolet&style=flat) |
+| **Repo Size** | [![GitHub repo size](https://img.shields.io/github/repo-size/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST)](https://github.com/sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST) |
 
 ---
 
