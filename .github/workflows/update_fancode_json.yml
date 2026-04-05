@@ -1,4 +1,4 @@
-name: Automated SonyLIV JSON Updater
+name: Automated FanCode JSON Updater
 
 on:
   schedule:
@@ -29,12 +29,12 @@ jobs:
         run: |
           export TZ="Asia/Kolkata"
           git pull origin main --rebase
-          curl -sS -o sonyliv.json "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.json"
-          echo "🚀 SonyLIV Synced | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> sliv.txt
+          curl -sS -o fancode.json "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json"
+          echo "🚀 FanCode Synced | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> fancode.txt
 
       - name: Commit and Push
         run: |
           export TZ="Asia/Sainthia"
-          git add sonyliv.json sliv.txt
-          git commit -m "SonyLIV Database Updated ✅ [$(date +'%d-%m-%Y %H:%M')]" --allow-empty
+          git add fancode.json fancode.txt
+          git commit -m "FanCode Database Updated ✅ [$(date +'%d-%m-%Y %H:%M')]" --allow-empty
           git push origin main
