@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:05:40 06-04-2026",
+    "last update time": "16:56:13 06-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
             "match_name": "Namdhari FC vs Diamond Harbour FC - 6 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775514939~acl=/*~id=62194928760269370022714392868678~hmac=757c14fcce3e315f6c013966adecdda6a0c19a081ec716658953a6258f4c787d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775514939~acl=/*~id=62194928760269370022714392868678~hmac=757c14fcce3e315f6c013966adecdda6a0c19a081ec716658953a6258f4c787d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775514939~acl=/*~id=62194928760269370022714392868678~hmac=757c14fcce3e315f6c013966adecdda6a0c19a081ec716658953a6258f4c787d"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775517972~acl=/*~id=21544033669269009993117353563846~hmac=968ba02903878bca951574eb2b81c2c708065bf8891a8ec5e3b4bc8cd4fe887e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775517972~acl=/*~id=21544033669269009993117353563846~hmac=968ba02903878bca951574eb2b81c2c708065bf8891a8ec5e3b4bc8cd4fe887e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775517972~acl=/*~id=21544033669269009993117353563846~hmac=968ba02903878bca951574eb2b81c2c708065bf8891a8ec5e3b4bc8cd4fe887e"
         },
         {
             "event_category": "Football",
