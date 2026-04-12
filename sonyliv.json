@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:35:10 12-04-2026",
+    "last update time": "22:25:44 12-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "VfB Stuttgart vs Hamburger SV - MD 29 - 12 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776053110~acl=/*~id=75452754324274943942095843683620~hmac=c59f0951c12c650a86173072db9f6b17285fb85b3adb7db711ae1c64a5bcb0ea",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776053110~acl=/*~id=75452754324274943942095843683620~hmac=c59f0951c12c650a86173072db9f6b17285fb85b3adb7db711ae1c64a5bcb0ea",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776053110~acl=/*~id=75452754324274943942095843683620~hmac=c59f0951c12c650a86173072db9f6b17285fb85b3adb7db711ae1c64a5bcb0ea"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776056143~acl=/*~id=21831415854984627309599869271029~hmac=78700eb1864116925e6705b5610e0fac4cad575ba0c2030a1f7045b491786e88",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776056143~acl=/*~id=21831415854984627309599869271029~hmac=78700eb1864116925e6705b5610e0fac4cad575ba0c2030a1f7045b491786e88",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776056143~acl=/*~id=21831415854984627309599869271029~hmac=78700eb1864116925e6705b5610e0fac4cad575ba0c2030a1f7045b491786e88"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090526868_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774594283087658_BLIGA_26_MD29_Mainz-vs-SC-Freiburg_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Mainz vs Freiburg - MD 29 - 12 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776056143~acl=/*~id=21831415854984627309599869271029~hmac=78700eb1864116925e6705b5610e0fac4cad575ba0c2030a1f7045b491786e88",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776056143~acl=/*~id=21831415854984627309599869271029~hmac=78700eb1864116925e6705b5610e0fac4cad575ba0c2030a1f7045b491786e88",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776056143~acl=/*~id=21831415854984627309599869271029~hmac=78700eb1864116925e6705b5610e0fac4cad575ba0c2030a1f7045b491786e88"
         },
         {
             "event_category": "Football",
