@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:21:48 12-04-2026",
+    "last update time": "17:02:12 12-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
             "match_name": "Real Kashmir FC vs Gokulam Kerala FC - 12 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776034307~acl=/*~id=42943367720219161216435640466170~hmac=253bd41fd0044d801903a82e1796a73559a472d179c09598b23aa4ee171b6ee6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776034307~acl=/*~id=42943367720219161216435640466170~hmac=253bd41fd0044d801903a82e1796a73559a472d179c09598b23aa4ee171b6ee6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776034307~acl=/*~id=42943367720219161216435640466170~hmac=253bd41fd0044d801903a82e1796a73559a472d179c09598b23aa4ee171b6ee6"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776036732~acl=/*~id=34923279798800508229076607331278~hmac=6045088baa854e47a97680ba43c4a8dda8842095d26014f8f7476c7584aa21b0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776036732~acl=/*~id=34923279798800508229076607331278~hmac=6045088baa854e47a97680ba43c4a8dda8842095d26014f8f7476c7584aa21b0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776036732~acl=/*~id=34923279798800508229076607331278~hmac=6045088baa854e47a97680ba43c4a8dda8842095d26014f8f7476c7584aa21b0"
         },
         {
             "event_category": "Football",
