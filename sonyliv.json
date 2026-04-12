@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:24:15 12-04-2026",
+    "last update time": "21:04:47 12-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090526841_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442624162617_IFC_Sreenidi_Deccan_FC_vs_Rajasthan_United_FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Indian Football League 2026",
-            "match_name": "Sreenidi Deccan FC vs Rajasthan United FC- 12 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776048854~acl=/*~id=71181288821604279374636474990181~hmac=6af9541aa2f157b14a22f0ac47876a793424d3d606f37d81ecedd68d2aa59387",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776048854~acl=/*~id=71181288821604279374636474990181~hmac=6af9541aa2f157b14a22f0ac47876a793424d3d606f37d81ecedd68d2aa59387",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/I_league1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776048854~acl=/*~id=71181288821604279374636474990181~hmac=6af9541aa2f157b14a22f0ac47876a793424d3d606f37d81ecedd68d2aa59387"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "VfB Stuttgart vs Hamburger SV - MD 29 - 12 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776048854~acl=/*~id=71181288821604279374636474990181~hmac=6af9541aa2f157b14a22f0ac47876a793424d3d606f37d81ecedd68d2aa59387",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776048854~acl=/*~id=71181288821604279374636474990181~hmac=6af9541aa2f157b14a22f0ac47876a793424d3d606f37d81ecedd68d2aa59387",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776048854~acl=/*~id=71181288821604279374636474990181~hmac=6af9541aa2f157b14a22f0ac47876a793424d3d606f37d81ecedd68d2aa59387"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776051286~acl=/*~id=07162420842741181970399867582489~hmac=1fe3cdba86e263c01d8fe6419f6256f50ae3e9be45ef8cb47846a732540f4b32",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776051286~acl=/*~id=07162420842741181970399867582489~hmac=1fe3cdba86e263c01d8fe6419f6256f50ae3e9be45ef8cb47846a732540f4b32",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776051286~acl=/*~id=07162420842741181970399867582489~hmac=1fe3cdba86e263c01d8fe6419f6256f50ae3e9be45ef8cb47846a732540f4b32"
         },
         {
             "event_category": "Football",
@@ -38,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": " Bundesliga 2025-26",
             "match_name": "FC Koln vs Werder Bremen - MD 29 - 12 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776048854~acl=/*~id=71181288821604279374636474990181~hmac=6af9541aa2f157b14a22f0ac47876a793424d3d606f37d81ecedd68d2aa59387",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776048854~acl=/*~id=71181288821604279374636474990181~hmac=6af9541aa2f157b14a22f0ac47876a793424d3d606f37d81ecedd68d2aa59387",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776048854~acl=/*~id=71181288821604279374636474990181~hmac=6af9541aa2f157b14a22f0ac47876a793424d3d606f37d81ecedd68d2aa59387"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776051286~acl=/*~id=07162420842741181970399867582489~hmac=1fe3cdba86e263c01d8fe6419f6256f50ae3e9be45ef8cb47846a732540f4b32",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776051286~acl=/*~id=07162420842741181970399867582489~hmac=1fe3cdba86e263c01d8fe6419f6256f50ae3e9be45ef8cb47846a732540f4b32",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Bundesli1204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776051286~acl=/*~id=07162420842741181970399867582489~hmac=1fe3cdba86e263c01d8fe6419f6256f50ae3e9be45ef8cb47846a732540f4b32"
         },
         {
             "event_category": "Football",
