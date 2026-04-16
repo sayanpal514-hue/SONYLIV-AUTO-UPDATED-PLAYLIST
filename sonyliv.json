@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:30:34 17-04-2026",
+    "last update time": "05:21:02 17-04-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "Mexico City - Day 1 - 17 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/LIV_Golf1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776423634~acl=/*~id=20373455012241003771084193816975~hmac=bfede8397b4f02704a20eae4cbc63330c2dcfd73a3135916f170d4108106b66e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/LIV_Golf1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776423634~acl=/*~id=20373455012241003771084193816975~hmac=bfede8397b4f02704a20eae4cbc63330c2dcfd73a3135916f170d4108106b66e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/LIV_Golf1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776423634~acl=/*~id=20373455012241003771084193816975~hmac=bfede8397b4f02704a20eae4cbc63330c2dcfd73a3135916f170d4108106b66e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/LIV_Golf1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776426662~acl=/*~id=58424994977787749022651437754329~hmac=6fe335e496b776eb291d5ddd578c627bb8090bdb6d5d730387c6f8631b83b3b4",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/LIV_Golf1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776426662~acl=/*~id=58424994977787749022651437754329~hmac=6fe335e496b776eb291d5ddd578c627bb8090bdb6d5d730387c6f8631b83b3b4",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/LIV_Golf1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776426662~acl=/*~id=58424994977787749022651437754329~hmac=6fe335e496b776eb291d5ddd578c627bb8090bdb6d5d730387c6f8631b83b3b4"
         },
         {
             "event_category": "Cricket",
