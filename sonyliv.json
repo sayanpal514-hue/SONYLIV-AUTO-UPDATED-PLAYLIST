@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:21:13 17-04-2026",
+    "last update time": "23:11:41 17-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Real Madrid vs PSG - Semi-Final - 17 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776487872~acl=/*~id=76109614097567277876162592531752~hmac=f909f5ec2c19bad6d08daf60f7adaa0b130c79f6f1da25878b4485a8e5d3df11",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776487872~acl=/*~id=76109614097567277876162592531752~hmac=f909f5ec2c19bad6d08daf60f7adaa0b130c79f6f1da25878b4485a8e5d3df11",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776487872~acl=/*~id=76109614097567277876162592531752~hmac=f909f5ec2c19bad6d08daf60f7adaa0b130c79f6f1da25878b4485a8e5d3df11"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776490900~acl=/*~id=03421483007356495607088664192291~hmac=edc9cb77d63a1da1d1e6edb4f4dad3ba7894b977270f91041cbca52ff68e95ce",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776490900~acl=/*~id=03421483007356495607088664192291~hmac=edc9cb77d63a1da1d1e6edb4f4dad3ba7894b977270f91041cbca52ff68e95ce",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776490900~acl=/*~id=03421483007356495607088664192291~hmac=edc9cb77d63a1da1d1e6edb4f4dad3ba7894b977270f91041cbca52ff68e95ce"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090528101_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624349331352_Golf_Mexico_Day2_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "LIV Golf",
+            "match_name": "Mexico City - Day 2 - 17 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776490900~acl=/*~id=03421483007356495607088664192291~hmac=edc9cb77d63a1da1d1e6edb4f4dad3ba7894b977270f91041cbca52ff68e95ce",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776490900~acl=/*~id=03421483007356495607088664192291~hmac=edc9cb77d63a1da1d1e6edb4f4dad3ba7894b977270f91041cbca52ff68e95ce",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776490900~acl=/*~id=03421483007356495607088664192291~hmac=edc9cb77d63a1da1d1e6edb4f4dad3ba7894b977270f91041cbca52ff68e95ce"
         },
         {
             "event_category": "Football",
