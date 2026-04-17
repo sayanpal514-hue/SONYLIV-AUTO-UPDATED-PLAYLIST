@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:53:41 18-04-2026",
+    "last update time": "02:44:09 18-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528269_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438170185352_bliga26_MD30_St_Pauli_vs_FC_Koln_5apr_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "St. Pauli vs FC Koln - MD 30 - 18 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/StPauli_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776500620~acl=/*~id=22723901521332781764708542844846~hmac=a2413ccb5f4203cee31382078857c67e5c7c73cffa5245b48da2dab628e21fbf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/StPauli_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776500620~acl=/*~id=22723901521332781764708542844846~hmac=a2413ccb5f4203cee31382078857c67e5c7c73cffa5245b48da2dab628e21fbf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/StPauli_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776500620~acl=/*~id=22723901521332781764708542844846~hmac=a2413ccb5f4203cee31382078857c67e5c7c73cffa5245b48da2dab628e21fbf"
-        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "Mexico City - Day 2 - 17 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776500620~acl=/*~id=22723901521332781764708542844846~hmac=a2413ccb5f4203cee31382078857c67e5c7c73cffa5245b48da2dab628e21fbf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776500620~acl=/*~id=22723901521332781764708542844846~hmac=a2413ccb5f4203cee31382078857c67e5c7c73cffa5245b48da2dab628e21fbf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776500620~acl=/*~id=22723901521332781764708542844846~hmac=a2413ccb5f4203cee31382078857c67e5c7c73cffa5245b48da2dab628e21fbf"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776503649~acl=/*~id=22695172228836995143643742499521~hmac=42d83305d445a66566022f34c7b313592a6bf0d21d8bc086d3cdf63074c1af53",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776503649~acl=/*~id=22695172228836995143643742499521~hmac=42d83305d445a66566022f34c7b313592a6bf0d21d8bc086d3cdf63074c1af53",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776503649~acl=/*~id=22695172228836995143643742499521~hmac=42d83305d445a66566022f34c7b313592a6bf0d21d8bc086d3cdf63074c1af53"
         },
         {
             "event_category": "Football",
