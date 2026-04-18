@@ -1,47 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:15:16 18-04-2026",
+    "last update time": "21:15:58 18-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528276_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438696739352_bliga26_MD30_Hoffenheim_vs_Dortmund_5apr_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Hoffenheim vs Borussia Dortmund - MD 30 - 18 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/BLIGA_Ho1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/BLIGA_Ho1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/BLIGA_Ho1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528272_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438299222352_bliga26_MD30_Leverkusen_vs_Augsburg_5apr_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Bayer Leverkusen vs Augsburg - MD 30 - 18 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/BLIGA_Ba1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/BLIGA_Ba1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/BLIGA_Ba1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528267_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788487557263_IFC_Shillong_Lajong_FC_vs_Aizawl_FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Indian Football League 2026",
-            "match_name": "Shillong Lajong FC vs Aizawl FC - 18 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IFL_Shil1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IFL_Shil1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IFL_Shil1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -51,35 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Goal Arena - MD 30 - 18 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_Go1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_Go1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_Go1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528274_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438552033352_bliga26_MD30_Union_Berlin_vs_Wolfsburg_5apr_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Union Berlin vs Wolfsburg - MD 30 - 18 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/BLIGA_Un1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/BLIGA_Un1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/BLIGA_Un1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528273_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438432631352_bliga26_MD30_Werder_Bremen_vs_Hamburger_SV_5apr_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": " Werder Bremen vs Hamburger SV - MD 30 - 18 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/BLIGA_We1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/BLIGA_We1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/BLIGA_We1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776566713~acl=/*~id=62298413745809485314872189766485~hmac=6c23c98e2fa14e81f7cf352e595c267e749e752eeedd624ebe95ffb225eda49e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_Go1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776570358~acl=/*~id=01395955338052513038589389503803~hmac=304b09fc1bea6556a4a30517616598cf78ace1bf71bee4f7471c4a4d2c498760",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_Go1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776570358~acl=/*~id=01395955338052513038589389503803~hmac=304b09fc1bea6556a4a30517616598cf78ace1bf71bee4f7471c4a4d2c498760",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_Go1804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776570358~acl=/*~id=01395955338052513038589389503803~hmac=304b09fc1bea6556a4a30517616598cf78ace1bf71bee4f7471c4a4d2c498760"
         },
         {
             "event_category": "Football",
