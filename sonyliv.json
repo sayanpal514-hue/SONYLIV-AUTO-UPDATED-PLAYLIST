@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:51:23 19-04-2026",
+    "last update time": "22:31:47 19-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Bayern Munich vs VfB Stuttgart - MD 30 - 19 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/BLIGA_Ba1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776658882~acl=/*~id=25656206533685687049258389476055~hmac=e3656903fde3dae012d1e53de4fea45abf3cdceeb585c428817e6b3f42e42dac",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/BLIGA_Ba1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776658882~acl=/*~id=25656206533685687049258389476055~hmac=e3656903fde3dae012d1e53de4fea45abf3cdceeb585c428817e6b3f42e42dac",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/BLIGA_Ba1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776658882~acl=/*~id=25656206533685687049258389476055~hmac=e3656903fde3dae012d1e53de4fea45abf3cdceeb585c428817e6b3f42e42dac"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/BLIGA_Ba1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776661307~acl=/*~id=32311763613803528982103899435811~hmac=a599891bd049e7a76cabe5592c9dddb47ab67b826ce8ae686d0b8f369ff980a8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/BLIGA_Ba1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776661307~acl=/*~id=32311763613803528982103899435811~hmac=a599891bd049e7a76cabe5592c9dddb47ab67b826ce8ae686d0b8f369ff980a8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/BLIGA_Ba1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776661307~acl=/*~id=32311763613803528982103899435811~hmac=a599891bd049e7a76cabe5592c9dddb47ab67b826ce8ae686d0b8f369ff980a8"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090528443_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775440159493352_bliga26_MD30_Borussia_vs_Mainz_5apr_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Borussia M\u00f6nchengladbach vs Mainz - MD 30 - 19 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/BLIGA_Bo1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776661307~acl=/*~id=32311763613803528982103899435811~hmac=a599891bd049e7a76cabe5592c9dddb47ab67b826ce8ae686d0b8f369ff980a8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/BLIGA_Bo1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776661307~acl=/*~id=32311763613803528982103899435811~hmac=a599891bd049e7a76cabe5592c9dddb47ab67b826ce8ae686d0b8f369ff980a8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/BLIGA_Bo1904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776661307~acl=/*~id=32311763613803528982103899435811~hmac=a599891bd049e7a76cabe5592c9dddb47ab67b826ce8ae686d0b8f369ff980a8"
         },
         {
             "event_category": "Football",
