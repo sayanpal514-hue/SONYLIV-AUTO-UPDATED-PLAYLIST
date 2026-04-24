@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:46:36 24-04-2026",
+    "last update time": "15:17:34 24-04-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,22 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Volvo China Open - Day 2 - 24 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/VolvoChi2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777061795~acl=/*~id=42235555719556185725301466287026~hmac=65e1c17612cd4d24530fd7b2a4c054d0b92f897e3a3a4a0dac741eebb9b8923f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/VolvoChi2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777061795~acl=/*~id=42235555719556185725301466287026~hmac=65e1c17612cd4d24530fd7b2a4c054d0b92f897e3a3a4a0dac741eebb9b8923f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/VolvoChi2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777061795~acl=/*~id=42235555719556185725301466287026~hmac=65e1c17612cd4d24530fd7b2a4c054d0b92f897e3a3a4a0dac741eebb9b8923f"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090528741_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017371/1776681468614468_Asian_Tour_Singapore_Open_Day2_Live_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2026",
-            "match_name": "Singapore Open - Day 2 - 24 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Singapor2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777061795~acl=/*~id=42235555719556185725301466287026~hmac=65e1c17612cd4d24530fd7b2a4c054d0b92f897e3a3a4a0dac741eebb9b8923f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Singapor2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777061795~acl=/*~id=42235555719556185725301466287026~hmac=65e1c17612cd4d24530fd7b2a4c054d0b92f897e3a3a4a0dac741eebb9b8923f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Singapor2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777061795~acl=/*~id=42235555719556185725301466287026~hmac=65e1c17612cd4d24530fd7b2a4c054d0b92f897e3a3a4a0dac741eebb9b8923f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/VolvoChi2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777067254~acl=/*~id=50941550926915156640256870034582~hmac=08f3434be5369911afbacbdb1dd3129ac9ccd5c048d51fbeef97b32e3b37477f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/VolvoChi2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777067254~acl=/*~id=50941550926915156640256870034582~hmac=08f3434be5369911afbacbdb1dd3129ac9ccd5c048d51fbeef97b32e3b37477f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/VolvoChi2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777067254~acl=/*~id=50941550926915156640256870034582~hmac=08f3434be5369911afbacbdb1dd3129ac9ccd5c048d51fbeef97b32e3b37477f"
         },
         {
             "event_category": "Football",
@@ -50,15 +37,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090528740,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017420/1776855200879116_UCL_Semi_Final_Leg1_PSG_vs_Bayern_promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSG vs Bayern - Semi-Final - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090528342,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017311/1776427343165560_FA-Cup-Semi-Final_Man-city-vs-Southampton_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
@@ -73,6 +51,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Semifinals - Chelsea vs Leeds United"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090528740,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017420/1776855200879116_UCL_Semi_Final_Leg1_PSG_vs_Bayern_promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Bayern - Semi-Final - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
