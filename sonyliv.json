@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:30:08 24-04-2026",
+    "last update time": "20:40:51 24-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528746_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017409/1776790825995598_IFL26_RajasthanUnitedFC_vs_SreenidiDeccanFC_21apr_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Indian Football League 2026",
-            "match_name": "Rajasthan United FC vs Sreenidi Deccan FC - 24 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/IFL_Raja2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777082408~acl=/*~id=90609139197610036071817346877794~hmac=dd710c93d72779cc6c026dbdce6f8b27dc96c85381bec8b22b0547eab080d41b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/IFL_Raja2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777082408~acl=/*~id=90609139197610036071817346877794~hmac=dd710c93d72779cc6c026dbdce6f8b27dc96c85381bec8b22b0547eab080d41b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/IFL_Raja2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777082408~acl=/*~id=90609139197610036071817346877794~hmac=dd710c93d72779cc6c026dbdce6f8b27dc96c85381bec8b22b0547eab080d41b"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -60,6 +47,24 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Bayern - Semi-Final - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090529079,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017470/1777038733626876_Nottm-Forest-vs-Aston-Villa-SF-1st-May_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Nottingham Forest vs Aston Villa - UEFA Europa League "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090529080,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017470/1777038716797876_Braga-vs-Freiburg-UEL-SF-1st-May_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Braga vs Freiburg - UEFA Europa League "
         },
         {
             "event_category": "Cricket",
