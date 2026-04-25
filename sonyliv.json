@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:56:30 25-04-2026",
+    "last update time": "10:57:47 25-04-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090528760_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016950/1775436994240181_DP_World_Tour_Volvo_China_Open_Day3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Volvo China Open - Day 3 - 25 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777138064~acl=/*~id=67605401335747197499394724495225~hmac=19e3dfa9fca2d2aeb783122f8d6247cb2d074d2e38cb8cbcbe7e0ed3e7502d02",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777138064~acl=/*~id=67605401335747197499394724495225~hmac=19e3dfa9fca2d2aeb783122f8d6247cb2d074d2e38cb8cbcbe7e0ed3e7502d02",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777138064~acl=/*~id=67605401335747197499394724495225~hmac=19e3dfa9fca2d2aeb783122f8d6247cb2d074d2e38cb8cbcbe7e0ed3e7502d02"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,18 +25,18 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2026",
             "match_name": "Singapore Open - Day 3 - 25 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777130790~acl=/*~id=74326544359325456009296295432244~hmac=17f6b601ead218eac30d8158de9f840a75e3a2447a69bdfdaf11b8d5147d1b8e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777130790~acl=/*~id=74326544359325456009296295432244~hmac=17f6b601ead218eac30d8158de9f840a75e3a2447a69bdfdaf11b8d5147d1b8e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777130790~acl=/*~id=74326544359325456009296295432244~hmac=17f6b601ead218eac30d8158de9f840a75e3a2447a69bdfdaf11b8d5147d1b8e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777138064~acl=/*~id=67605401335747197499394724495225~hmac=19e3dfa9fca2d2aeb783122f8d6247cb2d074d2e38cb8cbcbe7e0ed3e7502d02",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777138064~acl=/*~id=67605401335747197499394724495225~hmac=19e3dfa9fca2d2aeb783122f8d6247cb2d074d2e38cb8cbcbe7e0ed3e7502d02",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777138064~acl=/*~id=67605401335747197499394724495225~hmac=19e3dfa9fca2d2aeb783122f8d6247cb2d074d2e38cb8cbcbe7e0ed3e7502d02"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090528194,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017295/1776383756915532_FAcup26_SF_17apr_dated_rev_promo_landscape_thumb.jpg",
+            "contentId": 1090528342,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017469/177703634796793_FA_Cup_Semi_Final_Manchester_City_vs_Southampton_promo_landscape_thumbnail_tonight.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup Semifinals"
+            "event_name": "Upcoming - Emirates FA Cup - Semifinals - Manchester City vs Southampton"
         },
         {
             "event_category": "Cricket",
@@ -46,20 +59,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090528342,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017469/177703586913893_FA_Cup_Semi_Final_Manchester_City_vs_Southampton_promo_landscape_thumbnail_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Semifinals - Manchester City vs Southampton"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090528341,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017311/1776425034626560_FA-Cup-Semi-Final-Chelsea-vs-Leeds-United_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Semifinals - Chelsea vs Leeds United"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090528194,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017295/1776383756915532_FAcup26_SF_17apr_dated_rev_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup Semifinals"
         },
         {
             "event_category": "Football",
