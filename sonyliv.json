@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:44:40 25-04-2026",
+    "last update time": "21:25:14 25-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Manchester City vs Southampton - Semi-Final - 25 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Manchester City vs Southampton - Semi-Final - 25 Apr 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904"
         },
         {
             "event_category": "Football",
@@ -38,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Manchester City vs Southampton - Semi-Final - 25 Apr 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904"
         },
         {
             "event_category": "Football",
@@ -51,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Manchester City vs Southampton - Semi-Final - 25 Apr 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904"
         },
         {
             "event_category": "Football",
@@ -64,87 +64,22 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Manchester City vs Southampton - Semi-Final - 25 Apr 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/FA_CUP_M2504/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090528803_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775629737049558_BLGA_26_MD31_Mainz-vs-Bayern_landscape_thumb.jpg",
+            "contentId": "1090528813_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017425/1776858230929256_BLIGA26_MD31_Hamburger_SV_vs_Hoffenheim_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
-            "match_name": "Mainz vs Bayern Munich - MD 31 - 25 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/BLIGA_Ma2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/BLIGA_Ma2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/BLIGA_Ma2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528802_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775631280916558_BLGA_26_MD31_Koln-vs-Leverkusen_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "FC Koln vs Bayer Leverkusen - MD 31 - 25 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/BLIGA_Ko2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/BLIGA_Ko2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/BLIGA_Ko2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528801_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775549781002558_BLGA_26_MD31_Wolfsburg-vs-Borussia-Mgladbach_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Wolfsburg vs Borussia Monchengladbach - MD 31 - 25 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/BLIGA_Wo2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/BLIGA_Wo2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/BLIGA_Wo2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528805_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775632666634558_BLGA_26_MD31_Augsburg-vs-Eintracht-Frankfurt_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Augsburg vs Eintracht Frankfurt - MD 31 - 25 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_Au2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_Au2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_Au2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528804_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775630299728558_BLGA_26_MD31_Heidenheim-vs-St-Pauli_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Heidenheim vs St. Pauli - MD 31 - 25 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_He2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_He2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_He2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528793_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Goal Arena - MD 31 - 25 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/BLIGA_Go2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/BLIGA_Go2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/BLIGA_Go2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777173277~acl=/*~id=93654305671979765334535742909394~hmac=2124f8909c89c0525104dcb86c8a5906a0c0969e975e45402d4962228e2ea247"
+            "match_name": "Hamburger SV vs Hoffenheim - MD 31 - 25 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/BLIGA_Ha2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/BLIGA_Ha2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/BLIGA_Ha2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777175712~acl=/*~id=60311382476551072625884074993305~hmac=16f79d19299b89b5215c41e632b52d6ab88b4276892ff734cf58ece3c7dde904"
         },
         {
             "event_category": "Football",
@@ -167,15 +102,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090528342,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017469/177703634796793_FA_Cup_Semi_Final_Manchester_City_vs_Southampton_promo_landscape_thumbnail_tonight.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Semifinals - Manchester City vs Southampton"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090528740,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017420/1776855200879116_UCL_Semi_Final_Leg1_PSG_vs_Bayern_promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -190,15 +116,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Atletico vs Arsenal - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090528194,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017295/1776383756915532_FAcup26_SF_17apr_dated_rev_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup Semifinals"
         },
         {
             "event_category": "Football",
