@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:18:41 25-04-2026",
+    "last update time": "13:29:29 25-04-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,22 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Volvo China Open - Day 3 - 25 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777142921~acl=/*~id=29909827165805890249809262988510~hmac=3a6ecb6bd06e5064356707f27a120966671d85e61cb0198d203e15ff2d6e8e7f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777142921~acl=/*~id=29909827165805890249809262988510~hmac=3a6ecb6bd06e5064356707f27a120966671d85e61cb0198d203e15ff2d6e8e7f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777142921~acl=/*~id=29909827165805890249809262988510~hmac=3a6ecb6bd06e5064356707f27a120966671d85e61cb0198d203e15ff2d6e8e7f"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090528759_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017371/1776681481371468_Asian_Tour_Singapore_Open_Day3_Live_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2026",
-            "match_name": "Singapore Open - Day 3 - 25 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777142921~acl=/*~id=29909827165805890249809262988510~hmac=3a6ecb6bd06e5064356707f27a120966671d85e61cb0198d203e15ff2d6e8e7f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777142921~acl=/*~id=29909827165805890249809262988510~hmac=3a6ecb6bd06e5064356707f27a120966671d85e61cb0198d203e15ff2d6e8e7f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777142921~acl=/*~id=29909827165805890249809262988510~hmac=3a6ecb6bd06e5064356707f27a120966671d85e61cb0198d203e15ff2d6e8e7f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777147169~acl=/*~id=97891366432895710969698832454777~hmac=bbdada2ec51526511bbd93fa92fd0293e4940132fc4d3d8c6b6eb65f9e272ce5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777147169~acl=/*~id=97891366432895710969698832454777~hmac=bbdada2ec51526511bbd93fa92fd0293e4940132fc4d3d8c6b6eb65f9e272ce5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777147169~acl=/*~id=97891366432895710969698832454777~hmac=bbdada2ec51526511bbd93fa92fd0293e4940132fc4d3d8c6b6eb65f9e272ce5"
         },
         {
             "event_category": "Football",
@@ -64,6 +51,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Semifinals - Chelsea vs Leeds United"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090529106,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017420/1776854748312116_UCL_Semi_Final_Leg1_Atletico_vs_Arsenal_promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Atletico vs Arsenal - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
