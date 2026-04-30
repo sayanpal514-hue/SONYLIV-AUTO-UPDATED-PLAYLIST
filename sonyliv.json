@@ -1,26 +1,26 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:25:12 30-04-2026",
+    "last update time": "12:06:57 30-04-2026",
     "matches": [
         {
             "event_category": "Golf",
             "isLive": true,
             "contentId": "1090529434_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017419/1776853245018533_ASIANTOUR26_The45thGSCaltexMaekyungOpen_Day1_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017616/1777527701534362_ASIANTOUR26_The45thGSCaltexMaekyungOpen_Day1_rev_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2026",
             "match_name": "GS Caltex Maekyung Open - Day 1 - 30 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Maekyung3004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777564511~acl=/*~id=96840426790531310802040637551879~hmac=2cbbf2d35b260c7a4ac55e37689d6ff001314e42da4ec3783703b2293a9caecd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Maekyung3004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777564511~acl=/*~id=96840426790531310802040637551879~hmac=2cbbf2d35b260c7a4ac55e37689d6ff001314e42da4ec3783703b2293a9caecd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Maekyung3004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777564511~acl=/*~id=96840426790531310802040637551879~hmac=2cbbf2d35b260c7a4ac55e37689d6ff001314e42da4ec3783703b2293a9caecd"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Maekyung3004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777574217~acl=/*~id=40800209174132864874933399365763~hmac=afb65c21cb211f5a3313d305586621c1709f19a279448999cab08e58dbd4261b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Maekyung3004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777574217~acl=/*~id=40800209174132864874933399365763~hmac=afb65c21cb211f5a3313d305586621c1709f19a279448999cab08e58dbd4261b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Maekyung3004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777574217~acl=/*~id=40800209174132864874933399365763~hmac=afb65c21cb211f5a3313d305586621c1709f19a279448999cab08e58dbd4261b"
         },
         {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090529079,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017526/1777287740248542_UEL_Semi_Final_Leg1_Nottingham_Forest_vs_Aston_Villa_promo_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017526/1777287754645542_UEL_Semi_Final_Leg1_Nottingham_Forest_vs_Aston_Villa_promo_landscape_thumb_tonight.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Nottingham Forest vs Aston Villa - UEFA Europa League "
@@ -38,7 +38,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090529080,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017526/1777288077094542_UEL_Semi_Final_Leg1_Braga_vs_Freiburg_promo_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017526/1777288089647542_UEL_Semi_Final_Leg1_Braga_vs_Freiburg_promo_landscape_thumb_tonight.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Braga vs Freiburg - UEFA Europa League "
