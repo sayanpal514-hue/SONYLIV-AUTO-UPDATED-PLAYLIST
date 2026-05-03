@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:00:01 03-05-2026",
+    "last update time": "13:51:16 03-05-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,31 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": " Turkish Airlines Open - Day 4 - 3 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DP_World0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777833000~acl=/*~id=39893998949702515502326957684829~hmac=0af8d71787386cea4fb41254e8fea4df5124a8f6eeacc8b99f9c5600bd96cfcc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DP_World0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777833000~acl=/*~id=39893998949702515502326957684829~hmac=0af8d71787386cea4fb41254e8fea4df5124a8f6eeacc8b99f9c5600bd96cfcc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DP_World0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777833000~acl=/*~id=39893998949702515502326957684829~hmac=0af8d71787386cea4fb41254e8fea4df5124a8f6eeacc8b99f9c5600bd96cfcc"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090529600_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017660/1777609084691343_ASIANTOUR26_The45thGSCaltexMaekyungOpen_Day4_rev_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2026",
-            "match_name": "GS Caltex Maekyung Open - Day 4 - 3 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Maekyung0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777833000~acl=/*~id=39893998949702515502326957684829~hmac=0af8d71787386cea4fb41254e8fea4df5124a8f6eeacc8b99f9c5600bd96cfcc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Maekyung0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777833000~acl=/*~id=39893998949702515502326957684829~hmac=0af8d71787386cea4fb41254e8fea4df5124a8f6eeacc8b99f9c5600bd96cfcc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Maekyung0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777833000~acl=/*~id=39893998949702515502326957684829~hmac=0af8d71787386cea4fb41254e8fea4df5124a8f6eeacc8b99f9c5600bd96cfcc"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090529537,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017646/1777575925686683_UCL_Semi_Final_Leg2_Arsenal_vs_Atletico_promo_landscape_thumb_SP_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Atletico - UEFA Champions League 2025-26"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DP_World0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777839676~acl=/*~id=15803475918902143622679826847235~hmac=bf92b4aa0af44976fa0abcf5a660a42735e50d2353c0a4f3b9e80c58eec8861d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DP_World0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777839676~acl=/*~id=15803475918902143622679826847235~hmac=bf92b4aa0af44976fa0abcf5a660a42735e50d2353c0a4f3b9e80c58eec8861d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DP_World0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777839676~acl=/*~id=15803475918902143622679826847235~hmac=bf92b4aa0af44976fa0abcf5a660a42735e50d2353c0a4f3b9e80c58eec8861d"
         },
         {
             "event_category": "Football",
@@ -46,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayern vs PSG - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090529537,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017646/1777575925686683_UCL_Semi_Final_Leg2_Arsenal_vs_Atletico_promo_landscape_thumb_SP_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Atletico - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
