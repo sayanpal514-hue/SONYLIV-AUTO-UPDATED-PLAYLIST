@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:39:26 04-05-2026",
+    "last update time": "01:20:31 04-05-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090529622_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777373493324475_Bundesliga_2025-26_MD-32_SC-Freiburg-vs-Wolfsburg_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "SC Freiburg vs VfL Wolfsburg - MD 32 - 3 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Fr0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777878565~acl=/*~id=26813761283586030555900508738424~hmac=2fab41a95ea59898dfb3b97b91734fdadb547f48df8cbaefdb2dcf40a223e12e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Fr0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777878565~acl=/*~id=26813761283586030555900508738424~hmac=2fab41a95ea59898dfb3b97b91734fdadb547f48df8cbaefdb2dcf40a223e12e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Fr0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777878565~acl=/*~id=26813761283586030555900508738424~hmac=2fab41a95ea59898dfb3b97b91734fdadb547f48df8cbaefdb2dcf40a223e12e"
-        },
         {
             "event_category": "Football",
             "isLive": false,
