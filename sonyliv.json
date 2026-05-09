@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:22:04 10-05-2026",
+    "last update time": "03:22:43 10-05-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,15 +12,15 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "Virginia - Day 3 - 9 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LivGolf_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778403123~acl=/*~id=90820376944166088177802829568126~hmac=036b5b7f84b99a4c9c84ebf2580343f1f1dc9aa62139fdba18e397c253cd83c7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LivGolf_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778403123~acl=/*~id=90820376944166088177802829568126~hmac=036b5b7f84b99a4c9c84ebf2580343f1f1dc9aa62139fdba18e397c253cd83c7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LivGolf_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778403123~acl=/*~id=90820376944166088177802829568126~hmac=036b5b7f84b99a4c9c84ebf2580343f1f1dc9aa62139fdba18e397c253cd83c7"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LivGolf_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778406763~acl=/*~id=66731051961431401493923490588078~hmac=e4fa7e38d34467c34b0ede141cbc7388efaa66e867ca08e779e8fabbf7c8a49d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LivGolf_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778406763~acl=/*~id=66731051961431401493923490588078~hmac=e4fa7e38d34467c34b0ede141cbc7388efaa66e867ca08e779e8fabbf7c8a49d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LivGolf_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778406763~acl=/*~id=66731051961431401493923490588078~hmac=e4fa7e38d34467c34b0ede141cbc7388efaa66e867ca08e779e8fabbf7c8a49d"
         },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090530031,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017869/1778242908351146_EngW_vs_NZW_1odi_dated_8may_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017869/1778242929078146_EngW_vs_NZW_1odi_today_8may_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand Women Tour Of England"
