@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:53:42 10-05-2026",
+    "last update time": "06:46:28 10-05-2026",
     "matches": [
         {
             "event_category": "Fight Sports",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC 328 - Chimaev vs Strickland",
             "match_name": "UFC 328 - Chimaev vs Strickland - 10 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f"
         },
         {
             "event_category": "Fight Sports",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC 328 - Chimaev vs Strickland",
             "match_name": "UFC 328 - Chimaev vs Strickland - 10 May 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/HIN/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/HIN/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/HIN/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/HIN/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/HIN/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/HIN/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f"
         },
         {
             "event_category": "Fight Sports",
@@ -38,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC 328 - Chimaev vs Strickland",
             "match_name": "UFC 328 - Chimaev vs Strickland - 10 May 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TAM/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TAM/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TAM/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TAM/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TAM/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TAM/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f"
         },
         {
             "event_category": "Fight Sports",
@@ -51,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC 328 - Chimaev vs Strickland",
             "match_name": "UFC 328 - Chimaev vs Strickland - 10 May 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TEL/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TEL/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TEL/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TEL/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TEL/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TEL/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f"
         },
         {
             "event_category": "Fight Sports",
@@ -64,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC 328 - Chimaev vs Strickland",
             "match_name": "UFC 328 - Chimaev vs Strickland - 10 May 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/KAN/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/KAN/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/KAN/std_lrh-800300010.m3u8?hdnea=exp=1778412220~acl=/*~id=32296704413515494982327195558439~hmac=d9f2b83465099c8e79456b8a3a221a878881457bbc973d380d4d7263631dd3c4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/KAN/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/KAN/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/KAN/std_lrh-800300010.m3u8?hdnea=exp=1778418987~acl=/*~id=72355835259467455209596875047196~hmac=2d8c9a622e0d9630b87fceb1ae1c140806167bfc3d7f81fb74d3d24a12bc8f4f"
         },
         {
             "event_category": "Cricket",
