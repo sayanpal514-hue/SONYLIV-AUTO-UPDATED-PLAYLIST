@@ -1,73 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:17:29 03-06-2026",
+    "last update time": "02:59:23 03-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090533245_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018974/1780316291693502_ENGvsIND_Womens_3rd_T20I_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Women's Tour of England 2026",
-            "match_name": "3rd T20I - 2 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090533245_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018974/1780316291693502_ENGvsIND_Womens_3rd_T20I_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Women's Tour of England 2026",
-            "match_name": "3rd T20I - 2 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090533245_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018974/1780316291693502_ENGvsIND_Womens_3rd_T20I_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Women's Tour of England 2026",
-            "match_name": "3rd T20I - 2 Jun 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090533245_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018974/1780316291693502_ENGvsIND_Womens_3rd_T20I_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Women's Tour of England 2026",
-            "match_name": "3rd T20I - 2 Jun 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090533245_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018974/1780316291693502_ENGvsIND_Womens_3rd_T20I_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Women's Tour of England 2026",
-            "match_name": "3rd T20I - 2 Jun 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/EnglandW0206/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0"
-        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -77,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Roland-Garros 2026",
             "match_name": "Jakub Mensik vs Joao Fonseca - QF - 2 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c"
         },
         {
             "event_category": "Tennis",
@@ -90,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Roland-Garros 2026",
             "match_name": "Jakub Mensik vs Joao Fonseca - QF - 2 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c"
         },
         {
             "event_category": "Tennis",
@@ -103,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Roland-Garros 2026",
             "match_name": "Jakub Mensik vs Joao Fonseca - QF - 2 Jun 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c"
         },
         {
             "event_category": "Tennis",
@@ -116,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Roland-Garros 2026",
             "match_name": "Jakub Mensik vs Joao Fonseca - QF - 2 Jun 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c"
         },
         {
             "event_category": "Tennis",
@@ -129,35 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Roland-Garros 2026",
             "match_name": "Jakub Mensik vs Joao Fonseca - QF - 2 Jun 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090533248_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194389499918_INT_Friendlies26_Wales_vs_Ghana_31may_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA International Friendlies",
-            "match_name": "Wales vs Ghana - 3 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/European0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/European0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/European0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090533247_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194293772918_INT_Friendlies26_Georgia_Vs_Romania_31may_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA International Friendlies",
-            "match_name": "Georgia vs Romania - 2 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/European0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/European0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/European0206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780469244~acl=/*~id=42216455410660715338331425918535~hmac=6fa49f979c7b618079f4aef73da543aa776c07b4bc21816175dcf9d1457c2ca0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0206/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780478962~acl=/*~id=66547363101729428828512605281470~hmac=eb7fd8e6af31920d408594831e8578762615ecac12fce7c0bb927a6b408bba3c"
         },
         {
             "event_category": "Cricket",
