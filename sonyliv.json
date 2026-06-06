@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:53:37 06-06-2026",
+    "last update time": "13:35:20 06-06-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090534128_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019301/1780681940850934_Team_India_Selection_Press_Conference_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "India Tour Of Ireland 2026",
+            "match_name": "Press Conference - 6 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780776319~acl=/*~id=17170245272215249155787026434078~hmac=5d38d647eaad546f6020ef522e0c12de08c757a43c0ac3496e872ab1fcc83bd6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780776319~acl=/*~id=17170245272215249155787026434078~hmac=5d38d647eaad546f6020ef522e0c12de08c757a43c0ac3496e872ab1fcc83bd6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780776319~acl=/*~id=17170245272215249155787026434078~hmac=5d38d647eaad546f6020ef522e0c12de08c757a43c0ac3496e872ab1fcc83bd6"
+        },
+        {
+            "event_category": "Rugby",
+            "isLive": true,
+            "contentId": "1090534017_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694539781309_SVNS_World_Championship26_Session1_mens_Match_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "HSBC SVNS Bordeaux 2026",
+            "match_name": "Session 1 - Men's Match - 6 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780776319~acl=/*~id=17170245272215249155787026434078~hmac=5d38d647eaad546f6020ef522e0c12de08c757a43c0ac3496e872ab1fcc83bd6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780776319~acl=/*~id=17170245272215249155787026434078~hmac=5d38d647eaad546f6020ef522e0c12de08c757a43c0ac3496e872ab1fcc83bd6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780776319~acl=/*~id=17170245272215249155787026434078~hmac=5d38d647eaad546f6020ef522e0c12de08c757a43c0ac3496e872ab1fcc83bd6"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
