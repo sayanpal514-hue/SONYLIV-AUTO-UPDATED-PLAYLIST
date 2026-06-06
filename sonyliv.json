@@ -1,72 +1,72 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:18:40 06-06-2026",
+    "last update time": "18:29:53 06-06-2026",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090529780_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019324/1780696161007660_RG26_final_eng_generic_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019311/178068676775216_RG26_Womens_Final_Chwalinska_vs_Andreeva_live_landscape_thumb_SP.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Roland-Garros 2026",
-            "match_name": "Day 14 - 6 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a"
+            "match_name": "Maja Chwalinska vs Mirra Andreeva - Final - 6 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090529780_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019324/1780696161007660_RG26_final_eng_generic_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019311/178068676775216_RG26_Womens_Final_Chwalinska_vs_Andreeva_live_landscape_thumb_SP.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Roland-Garros 2026",
-            "match_name": "Day 14 - 6 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a"
+            "match_name": "Maja Chwalinska vs Mirra Andreeva - Final - 6 Jun 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090529780_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019324/1780696161007660_RG26_final_eng_generic_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019311/178068676775216_RG26_Womens_Final_Chwalinska_vs_Andreeva_live_landscape_thumb_SP.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Roland-Garros 2026",
-            "match_name": "Day 14 - 6 Jun 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a"
+            "match_name": "Maja Chwalinska vs Mirra Andreeva - Final - 6 Jun 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090529780_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019324/1780696161007660_RG26_final_eng_generic_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019311/178068676775216_RG26_Womens_Final_Chwalinska_vs_Andreeva_live_landscape_thumb_SP.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Roland-Garros 2026",
-            "match_name": "Day 14 - 6 Jun 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a"
+            "match_name": "Maja Chwalinska vs Mirra Andreeva - Final - 6 Jun 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090529780_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019324/1780696161007660_RG26_final_eng_generic_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019311/178068676775216_RG26_Womens_Final_Chwalinska_vs_Andreeva_live_landscape_thumb_SP.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Roland-Garros 2026",
-            "match_name": "Day 14 - 6 Jun 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a"
+            "match_name": "Maja Chwalinska vs Mirra Andreeva - Final - 6 Jun 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Day140606/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b"
         },
         {
             "event_category": "Cricket",
@@ -77,9 +77,22 @@
             "audioLanguageName": "ENG",
             "event_name": "New Zealand Tour of England 2026",
             "match_name": "1st Test - Day 3 - 6 Jun 2026  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/England_0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/England_0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/England_0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/England_0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/England_0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/England_0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090534041_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281054137461_INT_Friendlies26_Belgium_vs_Tunisia_1jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Belgium vs Tunisia - 6 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000381/UEFA_Bel0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000381/UEFA_Bel0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000381/UEFA_Bel0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b"
         },
         {
             "event_category": "Cricket",
@@ -90,9 +103,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Chhattisgarh Cricket Premier League 2026",
             "match_name": "Raigarh Lions vs Rajnandgaon Panthers - 6 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/CCPL_Rai0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/CCPL_Rai0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/CCPL_Rai0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/CCPL_Rai0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/CCPL_Rai0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/CCPL_Rai0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b"
         },
         {
             "event_category": "Rugby",
@@ -103,9 +116,9 @@
             "audioLanguageName": "ENG",
             "event_name": "HSBC SVNS Bordeaux 2026",
             "match_name": "Session 1 - Women's Match - 6 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b"
         },
         {
             "event_category": "Golf",
@@ -116,9 +129,9 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "Andalucia - Day 3 - 6 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/LIV_Golf0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/LIV_Golf0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/LIV_Golf0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/LIV_Golf0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/LIV_Golf0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/LIV_Golf0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b"
         },
         {
             "event_category": "Golf",
@@ -129,18 +142,22 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "KLM Open - Day 3 - 6 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/KLM_Day30606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/KLM_Day30606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/KLM_Day30606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780789715~acl=/*~id=38011350367470677057966156826853~hmac=26e94dd73b1c6b16d6501bb8681c02bebe6bd060d97950da8b25d1f35eadd69a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/KLM_Day30606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/KLM_Day30606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/KLM_Day30606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b"
         },
         {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090534126,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019314/178068971289366_RG26_Womens_Final_Chwalinska_vs_Andreeva_Today_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090534040_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281271335461_INT_Friendlies26_Lithuania_vs_Latvia_1jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Chwalinska vs Andreeva - Final - Roland-Garros 2026"
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Lithuania vs Latvia - 6 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/UEFA_Lit0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/UEFA_Lit0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/UEFA_Lit0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780793988~acl=/*~id=97362774141343059441180312697668~hmac=30238b138d24a847ac69fabeae9d11019625fd5b68a77225fed245773f74979b"
         },
         {
             "event_category": "Cricket",
