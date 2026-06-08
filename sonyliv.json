@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:37:37 08-06-2026",
+    "last update time": "23:59:05 08-06-2026",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090534399_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086281694485_CCPL26_Surguja_Tigers_vs_Rajnandgaon_Panthers_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 3",
-            "audioLanguageName": "HIN",
-            "event_name": "Chhattisgarh Cricket Premier League 2026",
-            "match_name": "Surguja Tigers vs Rajnandgaon Panthers - 8 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0806/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780978057~acl=/*~id=87499565218979464969938620025724~hmac=2ed02b2911c68ac76da5fa9b6102cf21d215ace3e69999fd490f2434a730b1d5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0806/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780978057~acl=/*~id=87499565218979464969938620025724~hmac=2ed02b2911c68ac76da5fa9b6102cf21d215ace3e69999fd490f2434a730b1d5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0806/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780978057~acl=/*~id=87499565218979464969938620025724~hmac=2ed02b2911c68ac76da5fa9b6102cf21d215ace3e69999fd490f2434a730b1d5"
+            "contentId": "1090534252_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627525081941_INT_Friendlies26_Netherlands_vs_Uzbekistan_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Netherlands vs Uzbekistan - 9 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_NedVs0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780986544~acl=/*~id=75018853714734848960249892570743~hmac=c9e46f1efc06094dae915b470311b3ebe6ade9f4d09cf112d75a21e802ca4505",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_NedVs0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780986544~acl=/*~id=75018853714734848960249892570743~hmac=c9e46f1efc06094dae915b470311b3ebe6ade9f4d09cf112d75a21e802ca4505",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_NedVs0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780986544~acl=/*~id=75018853714734848960249892570743~hmac=c9e46f1efc06094dae915b470311b3ebe6ade9f4d09cf112d75a21e802ca4505"
         },
         {
             "event_category": "Cricket",
@@ -42,6 +42,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090534439,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019449/1780938522326787_IndvsAfg_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India A vs Afghanistan A - Talent TV Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090534440,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019449/1780938526929787_tri_series_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Talent TV Cup - Team 'A' ODI Tri Series"
         }
     ]
 }
