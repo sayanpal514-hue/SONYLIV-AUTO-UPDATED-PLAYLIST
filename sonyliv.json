@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:06:26 09-06-2026",
+    "last update time": "01:18:30 10-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534434_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086321650285_CCPL26_Raipur_Rhinos_vs_Raigarh_Lions_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 3",
-            "audioLanguageName": "HIN",
-            "event_name": "Chhattisgarh Cricket Premier League 2026",
-            "match_name": "Raipur Rhinos vs Raigarh Lions - 9 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -25,35 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Blast 2026",
             "match_name": "Essex vs Kent - 9 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/criclive0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/criclive0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/criclive0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090534458_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624461373941_INT_Friendlies26_Hungary_vs_Kazakhstan_4jun_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA International Friendlies",
-            "match_name": "Hungary vs Kazakhstan  - 9 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_Hunga0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_Hunga0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_Hunga0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090534457_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627874146941_INT_Friendlies26_Belarus_vs_Burkina_Faso_4jun_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA International Friendlies",
-            "match_name": "Belarus vs Burkina Faso  - 9 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/IF_Belar0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/IF_Belar0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/IF_Belar0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/criclive0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781077709~acl=/*~id=76818916633704995762935052655540~hmac=d0bf38e43864c6f4581a38111d43af36fdf98ed30d476765bf248653ade61cf0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/criclive0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781077709~acl=/*~id=76818916633704995762935052655540~hmac=d0bf38e43864c6f4581a38111d43af36fdf98ed30d476765bf248653ade61cf0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/criclive0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781077709~acl=/*~id=76818916633704995762935052655540~hmac=d0bf38e43864c6f4581a38111d43af36fdf98ed30d476765bf248653ade61cf0"
         },
         {
             "event_category": "Football",
@@ -64,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Azerbaijan vs San Marino - 9 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IF_Azerb0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IF_Azerb0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IF_Azerb0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IF_Azerb0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781077709~acl=/*~id=76818916633704995762935052655540~hmac=d0bf38e43864c6f4581a38111d43af36fdf98ed30d476765bf248653ade61cf0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IF_Azerb0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781077709~acl=/*~id=76818916633704995762935052655540~hmac=d0bf38e43864c6f4581a38111d43af36fdf98ed30d476765bf248653ade61cf0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IF_Azerb0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781077709~acl=/*~id=76818916633704995762935052655540~hmac=d0bf38e43864c6f4581a38111d43af36fdf98ed30d476765bf248653ade61cf0"
         },
         {
             "event_category": "Cricket",
