@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:05:22 11-06-2026",
+    "last update time": "02:37:09 11-06-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090534526_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780625586095940_INT_Friendlies26_Portugal_vs_Nigeria_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Portugal vs Nigeria  - 11 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781168828~acl=/*~id=29672234107967359558606767480524~hmac=bbb0f0cc4f2dd6a53e6324874b5446da2a730516dc572cba65b81edddbf30653",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781168828~acl=/*~id=29672234107967359558606767480524~hmac=bbb0f0cc4f2dd6a53e6324874b5446da2a730516dc572cba65b81edddbf30653",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781168828~acl=/*~id=29672234107967359558606767480524~hmac=bbb0f0cc4f2dd6a53e6324874b5446da2a730516dc572cba65b81edddbf30653"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090534527_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019432/1780913855004844_INT_Friendlies26_England_vs_Costa_Rica_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "England vs Costa Rica - 11 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781168828~acl=/*~id=29672234107967359558606767480524~hmac=bbb0f0cc4f2dd6a53e6324874b5446da2a730516dc572cba65b81edddbf30653",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781168828~acl=/*~id=29672234107967359558606767480524~hmac=bbb0f0cc4f2dd6a53e6324874b5446da2a730516dc572cba65b81edddbf30653",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781168828~acl=/*~id=29672234107967359558606767480524~hmac=bbb0f0cc4f2dd6a53e6324874b5446da2a730516dc572cba65b81edddbf30653"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
