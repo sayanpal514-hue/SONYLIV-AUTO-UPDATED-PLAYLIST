@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:17:41 12-06-2026",
+    "last update time": "17:40:05 12-06-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090534660_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019541/178118055960699_CCPL26_SF_Bilaspur_Bulls_vs_Bastar_Bisons_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 3",
+            "audioLanguageName": "HIN",
+            "event_name": "Chhattisgarh Cricket Premier League 2026",
+            "match_name": "Bilaspur Bulls vs Bastar Bisons - 12 Jun 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781309405~acl=/*~id=30100055233474535572936797365717~hmac=1cbbb4b4deec0296fa3aec17adc11cbb1403a3a0a7ed5780c4f12d18663b855d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781309405~acl=/*~id=30100055233474535572936797365717~hmac=1cbbb4b4deec0296fa3aec17adc11cbb1403a3a0a7ed5780c4f12d18663b855d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781309405~acl=/*~id=30100055233474535572936797365717~hmac=1cbbb4b4deec0296fa3aec17adc11cbb1403a3a0a7ed5780c4f12d18663b855d"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -11,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Talent TV Cup - Sri Lanka A vs India A"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090533556,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019564/1781258970239422_ENGvsNZ_2nd_test_day1_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand Tour of England"
         },
         {
             "event_category": "Fight Sports",
@@ -29,15 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Talent TV Cup - Team 'A' ODI Tri Series"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090533556,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019182/1780577613293570_England_vs_New_Zealand_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - New Zealand Tour of England"
         },
         {
             "event_category": "Cricket",
