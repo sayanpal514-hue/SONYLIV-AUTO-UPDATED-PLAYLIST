@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:03:00 12-06-2026",
+    "last update time": "23:14:44 12-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534660_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019541/178118003725399_CCPL26_SF_Raigarh_Lions_vs_Raipur_Rhinos_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 3",
-            "audioLanguageName": "HIN",
-            "event_name": "Chhattisgarh Cricket Premier League 2026",
-            "match_name": "Raigarh Lions vs Raipur Rhinos - Semi-Final - 12 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781321579~acl=/*~id=50096090327050324085482882013018~hmac=c76621e9f31fef81ddc0c942ac3f2c47f42f14205893a88eb5d84b0091c689da",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781321579~acl=/*~id=50096090327050324085482882013018~hmac=c76621e9f31fef81ddc0c942ac3f2c47f42f14205893a88eb5d84b0091c689da",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781321579~acl=/*~id=50096090327050324085482882013018~hmac=c76621e9f31fef81ddc0c942ac3f2c47f42f14205893a88eb5d84b0091c689da"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090534596_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071040616362_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_day2_6jun_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2026",
-            "match_name": "International Series Morocco - Day 2 - 12 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/AsianTou1206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781321579~acl=/*~id=50096090327050324085482882013018~hmac=c76621e9f31fef81ddc0c942ac3f2c47f42f14205893a88eb5d84b0091c689da",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/AsianTou1206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781321579~acl=/*~id=50096090327050324085482882013018~hmac=c76621e9f31fef81ddc0c942ac3f2c47f42f14205893a88eb5d84b0091c689da",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/AsianTou1206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781321579~acl=/*~id=50096090327050324085482882013018~hmac=c76621e9f31fef81ddc0c942ac3f2c47f42f14205893a88eb5d84b0091c689da"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
