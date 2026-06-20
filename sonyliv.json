@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:00:27 20-06-2026",
+    "last update time": "15:12:33 20-06-2026",
     "matches": [
         {
-            "event_category": "Racing",
+            "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090535044_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018954/1780272663082965_ABB_FIA_FormulaE_WC26_RD11_Sanya_EPrix_Final_Race_landscape_thumb.jpg",
+            "contentId": "1090535050_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019769/1781933880852681_ENGvsNZ_2nd_test_day4_watch_free_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "ABB FIA Formula E World Championship",
-            "match_name": "Round 11 - Sanya E-Prix - Final  Race - 20 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/109053502006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781980226~acl=/*~id=42907482281929018380089010068104~hmac=ed64b274fc200199d2ed3682e66b91a2e53846999d12e51f3dc7facfba64452a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/109053502006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781980226~acl=/*~id=42907482281929018380089010068104~hmac=ed64b274fc200199d2ed3682e66b91a2e53846999d12e51f3dc7facfba64452a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/109053502006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781980226~acl=/*~id=42907482281929018380089010068104~hmac=ed64b274fc200199d2ed3682e66b91a2e53846999d12e51f3dc7facfba64452a"
+            "event_name": "New Zealand Tour of England 2026",
+            "match_name": "2nd Test - Day 4 - 20 Jun 2026  [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781991753~acl=/*~id=72392713520997145132220738234895~hmac=05c43d0a49178150e402d873e658cdc8768c84b9a807ffd22b097c893fb4d710",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781991753~acl=/*~id=72392713520997145132220738234895~hmac=05c43d0a49178150e402d873e658cdc8768c84b9a807ffd22b097c893fb4d710",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781991753~acl=/*~id=72392713520997145132220738234895~hmac=05c43d0a49178150e402d873e658cdc8768c84b9a807ffd22b097c893fb4d710"
         },
         {
             "event_category": "Cricket",
@@ -37,20 +37,20 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090533556,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019766/1781899998500182_ENGvsNZ26_2test_day4_watch_free_today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - New Zealand Tour of England"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090534440,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019473/1781011836672979_Tri_Series_2026_GOB_Landscape_Thumb_1.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Talent TV Cup - Team 'A' ODI Tri Series"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090533556,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019766/1781899998500182_ENGvsNZ26_2test_day4_watch_free_today_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand Tour of England"
         },
         {
             "event_category": "Cricket",
