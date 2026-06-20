@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:12:33 20-06-2026",
+    "last update time": "17:13:48 20-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "New Zealand Tour of England 2026",
             "match_name": "2nd Test - Day 4 - 20 Jun 2026  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781991753~acl=/*~id=72392713520997145132220738234895~hmac=05c43d0a49178150e402d873e658cdc8768c84b9a807ffd22b097c893fb4d710",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781991753~acl=/*~id=72392713520997145132220738234895~hmac=05c43d0a49178150e402d873e658cdc8768c84b9a807ffd22b097c893fb4d710",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781991753~acl=/*~id=72392713520997145132220738234895~hmac=05c43d0a49178150e402d873e658cdc8768c84b9a807ffd22b097c893fb4d710"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781999027~acl=/*~id=56427381736343940977294119489593~hmac=387f3549b7032c369c116b28b752ba564d7557376aa3d61df13861b124091f51",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781999027~acl=/*~id=56427381736343940977294119489593~hmac=387f3549b7032c369c116b28b752ba564d7557376aa3d61df13861b124091f51",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781999027~acl=/*~id=56427381736343940977294119489593~hmac=387f3549b7032c369c116b28b752ba564d7557376aa3d61df13861b124091f51"
         },
         {
             "event_category": "Cricket",
@@ -47,7 +47,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090533556,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019766/1781899998500182_ENGvsNZ26_2test_day4_watch_free_today_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019182/1780577613293570_England_vs_New_Zealand_2026_GOB_Landscape_Thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand Tour of England"
