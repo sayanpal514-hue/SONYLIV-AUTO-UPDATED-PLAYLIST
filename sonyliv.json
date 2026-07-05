@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:48:29 05-07-2026",
+    "last update time": "11:00:57 05-07-2026",
     "matches": [
         {
             "event_category": "Racing",
             "isLive": true,
-            "contentId": "1090535834_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020217/1782816136395920_ABB_FIA_FormulaE_WC26_RD13_Shanghai_EPrix_Qualifying_Race_landscape_thumb.jpg",
+            "contentId": "1090535835_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020217/1782816130028920_ABB_FIA_FormulaE_WC26_RD13_Shanghai_EPrix_final_Race_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
-            "match_name": "R13 - Shanghai E-Prix - Qualifying Race - 5 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/R13_Shan0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783257509~acl=/*~id=29534614394591580410932930179862~hmac=3f7ecad707d82ecaf7e6338d2ee5c931eafdfa8b9ef460a3bd211e6a265fdbb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/R13_Shan0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783257509~acl=/*~id=29534614394591580410932930179862~hmac=3f7ecad707d82ecaf7e6338d2ee5c931eafdfa8b9ef460a3bd211e6a265fdbb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/R13_Shan0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783257509~acl=/*~id=29534614394591580410932930179862~hmac=3f7ecad707d82ecaf7e6338d2ee5c931eafdfa8b9ef460a3bd211e6a265fdbb1"
+            "match_name": "R13 - Shanghai E-Prix - Final  Race - 5 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/R13_Shan0507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783272657~acl=/*~id=36309478198028503638417568070659~hmac=999a2f9a021537a537f98352b832458d22d2bf8b1db5e7dcf41765795f439a07",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/R13_Shan0507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783272657~acl=/*~id=36309478198028503638417568070659~hmac=999a2f9a021537a537f98352b832458d22d2bf8b1db5e7dcf41765795f439a07",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/R13_Shan0507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783272657~acl=/*~id=36309478198028503638417568070659~hmac=999a2f9a021537a537f98352b832458d22d2bf8b1db5e7dcf41765795f439a07"
         },
         {
             "event_category": "Fight Sports",
