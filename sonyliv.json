@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:28:47 08-07-2026",
+    "last update time": "20:50:21 08-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Blast Women 2026",
             "match_name": "Surrey Women vs Warwickshire Women - 8 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/VB_Surre0807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783558726~acl=/*~id=16207254471129538726799678068696~hmac=afb7bff558532581261f4c4965afdbe319a6a279e11e365629df117868e13361",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/VB_Surre0807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783558726~acl=/*~id=16207254471129538726799678068696~hmac=afb7bff558532581261f4c4965afdbe319a6a279e11e365629df117868e13361",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/VB_Surre0807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783558726~acl=/*~id=16207254471129538726799678068696~hmac=afb7bff558532581261f4c4965afdbe319a6a279e11e365629df117868e13361"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/VB_Surre0807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783567220~acl=/*~id=17183518247266451453324480504972~hmac=f4b03cdbe5c747c7e2fe289fcdb0af3d99b721bfacbec0098caa5148b828584b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/VB_Surre0807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783567220~acl=/*~id=17183518247266451453324480504972~hmac=f4b03cdbe5c747c7e2fe289fcdb0af3d99b721bfacbec0098caa5148b828584b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/VB_Surre0807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783567220~acl=/*~id=17183518247266451453324480504972~hmac=f4b03cdbe5c747c7e2fe289fcdb0af3d99b721bfacbec0098caa5148b828584b"
         },
         {
             "event_category": "Fight Sports",
@@ -47,7 +47,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090535477,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019960/178238005196688_Ind-vs-SL-2026_landscape.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020400/1783516631878877_sl_vs_ind_tests_8jul_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India Tour of Sri Lanka"
