@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:31:58 11-07-2026",
+    "last update time": "02:02:57 11-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Blast 2026",
             "match_name": "Lancashire vs Yorkshire - 10 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Lancashi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783753317~acl=/*~id=19918954722433564063294913025787~hmac=516790bde9234ed534302557ca922f8bbc665b8cce84a595aec0718c785b0016",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Lancashi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783753317~acl=/*~id=19918954722433564063294913025787~hmac=516790bde9234ed534302557ca922f8bbc665b8cce84a595aec0718c785b0016",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Lancashi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783753317~acl=/*~id=19918954722433564063294913025787~hmac=516790bde9234ed534302557ca922f8bbc665b8cce84a595aec0718c785b0016"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Lancashi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783758776~acl=/*~id=95830501099800393198061854908354~hmac=52927e802159ae1437193425dc0876306ec0fe7f9391d70a2fdc7764c37fe494",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Lancashi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783758776~acl=/*~id=95830501099800393198061854908354~hmac=52927e802159ae1437193425dc0876306ec0fe7f9391d70a2fdc7764c37fe494",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Lancashi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783758776~acl=/*~id=95830501099800393198061854908354~hmac=52927e802159ae1437193425dc0876306ec0fe7f9391d70a2fdc7764c37fe494"
         },
         {
             "event_category": "Sports",
@@ -24,6 +24,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Neeraj Chopra at Glasgow 2026 Commonwealth Games"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090536125,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020457/1783687035370912_Eng_W_vs_Ind_W_2026_one_off_test_day2_today_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England W vs India W - Only Test "
         },
         {
             "event_category": "Fight Sports",
@@ -42,15 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India Tour of Sri Lanka"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090536125,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020457/1783687035370912_Eng_W_vs_Ind_W_2026_one_off_test_day2_today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England W vs India W - Only Test "
         },
         {
             "event_category": "Sports",
