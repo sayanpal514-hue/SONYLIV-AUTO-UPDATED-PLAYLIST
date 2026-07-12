@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:53:14 13-07-2026",
+    "last update time": "02:53:47 13-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090536489_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020475/1783706034559219_VitalityBlast26_Mens_Somerset_vs_Worcestershire_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Vitality Blast 2026",
-            "match_name": "Somerset vs Worcestershire - 12 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Criclive1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783930994~acl=/*~id=16920804035542233378795467296672~hmac=94c3d642a3cd522b7c96e924064da615bef4506922f5906b34ca40c596e3c811",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Criclive1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783930994~acl=/*~id=16920804035542233378795467296672~hmac=94c3d642a3cd522b7c96e924064da615bef4506922f5906b34ca40c596e3c811",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Criclive1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783930994~acl=/*~id=16920804035542233378795467296672~hmac=94c3d642a3cd522b7c96e924064da615bef4506922f5906b34ca40c596e3c811"
-        },
         {
             "event_category": "Sports",
             "isLive": false,
