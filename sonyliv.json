@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:52:13 15-07-2026",
+    "last update time": "21:33:29 15-07-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090536626_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020590/1784040929501778_Vitality_Blast_2026_QF_Yorkshire_vs_Somerset_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Blast 2026",
+            "match_name": "Yorkshire vs Somerset - Quarter-final - 15 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784174609~acl=/*~id=20223776746664175718838362085002~hmac=2c83d0173e09ef319f4fa380b81f8509f40970e23970f8f81285bf0c5a33490d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784174609~acl=/*~id=20223776746664175718838362085002~hmac=2c83d0173e09ef319f4fa380b81f8509f40970e23970f8f81285bf0c5a33490d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784174609~acl=/*~id=20223776746664175718838362085002~hmac=2c83d0173e09ef319f4fa380b81f8509f40970e23970f8f81285bf0c5a33490d"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
@@ -18,7 +31,7 @@
             "contentId": 1090535477,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020400/1783516631878877_sl_vs_ind_tests_8jul_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
+            "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka"
         },
         {
