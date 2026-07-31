@@ -1,8 +1,30 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:58:20 31-07-2026",
+    "last update time": "12:49:57 31-07-2026",
     "matches": [
+        {
+            "event_category": "Bowls and Para Bowls",
+            "isLive": true,
+            "contentId": "1090536386_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Wales vs Malaysia - Men's Pairs - Bowls And Para Bowls - 31 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785525597~acl=/*~id=73117017521710787448123618395367~hmac=18d8bc30232216770ba1230766225a22a5becb9fccce5602f0ca8bfff751f93e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785525597~acl=/*~id=73117017521710787448123618395367~hmac=18d8bc30232216770ba1230766225a22a5becb9fccce5602f0ca8bfff751f93e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785525597~acl=/*~id=73117017521710787448123618395367~hmac=18d8bc30232216770ba1230766225a22a5becb9fccce5602f0ca8bfff751f93e"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090536279,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021485/178546011560692_CWG26_MENS_JAVELIN_THROW_final_neeraj_tonight_landscape.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Neeraj Chopra at Glasgow 2026 Commonwealth Games"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -11,15 +33,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090536279,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021448/1785434452030145_CWG26_MENS_JAVELIN_THROW_final_neeraj_dated_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Neeraj Chopra at Glasgow 2026 Commonwealth Games"
         },
         {
             "event_category": "Football",
