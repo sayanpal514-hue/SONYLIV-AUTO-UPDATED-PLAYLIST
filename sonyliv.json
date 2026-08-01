@@ -1,98 +1,124 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:06:35 01-08-2026",
+    "last update time": "22:07:40 01-08-2026",
     "matches": [
         {
             "event_category": "Boxing",
             "isLive": true,
             "contentId": "1090536267_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785543917422298_CWG_Boxing_Final_Sakshi_vs_Ruby_White_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785542050961298_CWG_Boxing_Final_Emma_Sue_vs_Lovlina_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Sakshi Choudhary vs Ruby White - Women's 51 kg - Boxing - Final - 1 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0"
+            "match_name": "Emma-Sue Greentree vs Lovlina Borgohain - Women's 75 kg - Boxing - Final - 1 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea"
         },
         {
             "event_category": "Boxing",
             "isLive": true,
             "contentId": "1090536267_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785543917422298_CWG_Boxing_Final_Sakshi_vs_Ruby_White_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785542050961298_CWG_Boxing_Final_Emma_Sue_vs_Lovlina_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Sakshi Choudhary vs Ruby White - Women's 51 kg - Boxing - Final - 1 Jul 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0"
+            "match_name": "Emma-Sue Greentree vs Lovlina Borgohain - Women's 75 kg - Boxing - Final - 1 Aug 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea"
         },
         {
             "event_category": "Boxing",
             "isLive": true,
             "contentId": "1090536267_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785543917422298_CWG_Boxing_Final_Sakshi_vs_Ruby_White_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785542050961298_CWG_Boxing_Final_Emma_Sue_vs_Lovlina_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Sakshi Choudhary vs Ruby White - Women's 51 kg - Boxing - Final - 1 Jul 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0"
+            "match_name": "Emma-Sue Greentree vs Lovlina Borgohain - Women's 75 kg - Boxing - Final - 1 Aug 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea"
         },
         {
             "event_category": "Boxing",
             "isLive": true,
             "contentId": "1090536267_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785543917422298_CWG_Boxing_Final_Sakshi_vs_Ruby_White_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785542050961298_CWG_Boxing_Final_Emma_Sue_vs_Lovlina_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Sakshi Choudhary vs Ruby White - Women's 51 kg - Boxing - Final - 1 Jul 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0"
+            "match_name": "Emma-Sue Greentree vs Lovlina Borgohain - Women's 75 kg - Boxing - Final - 1 Aug 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea"
         },
         {
             "event_category": "Boxing",
             "isLive": true,
             "contentId": "1090536267_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785543917422298_CWG_Boxing_Final_Sakshi_vs_Ruby_White_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785542050961298_CWG_Boxing_Final_Emma_Sue_vs_Lovlina_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Sakshi Choudhary vs Ruby White - Women's 51 kg - Boxing - Final - 1 Jul 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0"
+            "match_name": "Emma-Sue Greentree vs Lovlina Borgohain - Women's 75 kg - Boxing - Final - 1 Aug 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090538222_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021597/1785571950848789_UFC_Fight_Night_Medic_vs_Rodriguez_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Medic vs Rodriguez",
+            "match_name": "UFC Fight Night - Medic vs Rodriguez - 1 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090538222_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021597/1785571950848789_UFC_Fight_Night_Medic_vs_Rodriguez_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Medic vs Rodriguez",
+            "match_name": "UFC Fight Night - Medic vs Rodriguez - 1 Aug 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea"
         },
         {
             "event_category": "Cycling",
             "isLive": true,
             "contentId": "1090536385_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785596345780_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785599578096_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Women's 25km Points Race - Cycling - 1 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0"
+            "match_name": "Women's 1000m Time Trial - Cycling - 1 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea"
         },
         {
             "event_category": "Judo",
             "isLive": true,
             "contentId": "1090536387_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785598250217_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785602161349_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Skye Knoester vs Unnati Sharma - Women -63 kg - Judo - 1 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0"
+            "match_name": "Rachael Hawkes vs Charlie Thibault - Women -70 kg - Judo - 1 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea"
         },
         {
             "event_category": "Boxing",
@@ -102,10 +128,10 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Sakshi Choudhary vs Ruby White - Women's 51 kg - Boxing - Final - 1 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0"
+            "match_name": "Emma-Sue Greentree vs Lovlina Borgohain - Women's 75 kg - Boxing - Final - 1 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea"
         },
         {
             "event_category": "Bowls and Para Bowls",
@@ -116,9 +142,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
             "match_name": "Katherine Rednall vs Daphne Arthur-Almond - Women's Singles - Bowls and Para Bowls - 1 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785641792~acl=/*~id=75155499565393264179153630024137~hmac=48bed6323965d0586b800f63f0da65ea424b93913fa897e5f3b2d8bc648ca4d0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea"
         },
         {
             "event_category": "Cricket",
@@ -187,7 +213,7 @@
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090536900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021588/1785567247271569_CWG_upcoming_BOXING_WOMEN-75KG-FINAL_Emma-Sue-Greentree-vs-Lovlina_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021592/1785567881905359_CWG_upcoming_ATHLETICS_5000m-Final_Gulveer-Singh_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
