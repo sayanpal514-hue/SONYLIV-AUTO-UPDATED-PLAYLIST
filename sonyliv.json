@@ -1,20 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:33:06 07-08-2026",
+    "last update time": "19:04:19 07-08-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090538721_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707590058385_DC26_SC_DELHI_vs_Defenders_FC_landscape_thumb.jpg",
+            "contentId": "1090538724_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707723503385_DC26_East_Bengal_FC_vs_South_United_FC_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2026",
-            "match_name": "SC DELHI vs Defenders FC - 7 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786147385~acl=/*~id=21714945617996051668396030768058~hmac=619d2c78784f8e9a26deb932437622770ef6406ab9fc5c20baac0404ebc78980",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786147385~acl=/*~id=21714945617996051668396030768058~hmac=619d2c78784f8e9a26deb932437622770ef6406ab9fc5c20baac0404ebc78980",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786147385~acl=/*~id=21714945617996051668396030768058~hmac=619d2c78784f8e9a26deb932437622770ef6406ab9fc5c20baac0404ebc78980"
+            "match_name": "East Bengal FC vs South United FC - 7 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786152858~acl=/*~id=64705256475671307539209666740774~hmac=707a6ef21e5a20b0cbcf426cea6582a58bcef2a65fd22fc12e34e0030d21f233",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786152858~acl=/*~id=64705256475671307539209666740774~hmac=707a6ef21e5a20b0cbcf426cea6582a58bcef2a65fd22fc12e34e0030d21f233",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786152858~acl=/*~id=64705256475671307539209666740774~hmac=707a6ef21e5a20b0cbcf426cea6582a58bcef2a65fd22fc12e34e0030d21f233"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090538734_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600775209347_Vitality_Mixed_Disability_2nd_T20i_England_vs_India_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Mixed Disability IT20 series",
+            "match_name": "England vs India - 2nd T20I - 7 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786152858~acl=/*~id=64705256475671307539209666740774~hmac=707a6ef21e5a20b0cbcf426cea6582a58bcef2a65fd22fc12e34e0030d21f233",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786152858~acl=/*~id=64705256475671307539209666740774~hmac=707a6ef21e5a20b0cbcf426cea6582a58bcef2a65fd22fc12e34e0030d21f233",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786152858~acl=/*~id=64705256475671307539209666740774~hmac=707a6ef21e5a20b0cbcf426cea6582a58bcef2a65fd22fc12e34e0030d21f233"
         },
         {
             "event_category": "Football",
@@ -29,7 +42,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090536992,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021750/1785755907258469_SL_vs_IND_1st_Test_Promo_DDT_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021896/1786105413524557_sl_vs_ind_1st_test_dated_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
