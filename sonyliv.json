@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:23:34 08-08-2026",
+    "last update time": "00:14:09 09-08-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "New York - Day 3 - 8 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Golf_New0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786254814~acl=/*~id=78695142826313552045187476535803~hmac=a514267cd171d135f4631337b7a2a45957f2a65df797f51af678bba6078081b9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Golf_New0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786254814~acl=/*~id=78695142826313552045187476535803~hmac=a514267cd171d135f4631337b7a2a45957f2a65df797f51af678bba6078081b9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Golf_New0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786254814~acl=/*~id=78695142826313552045187476535803~hmac=a514267cd171d135f4631337b7a2a45957f2a65df797f51af678bba6078081b9"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Golf_New0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786257848~acl=/*~id=35194368981202526137972809869961~hmac=3c8449a157a6bb96d22c7f8c0e485031e3f9402686d8d42fe19cb8f9a1bb0068",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Golf_New0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786257848~acl=/*~id=35194368981202526137972809869961~hmac=3c8449a157a6bb96d22c7f8c0e485031e3f9402686d8d42fe19cb8f9a1bb0068",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Golf_New0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786257848~acl=/*~id=35194368981202526137972809869961~hmac=3c8449a157a6bb96d22c7f8c0e485031e3f9402686d8d42fe19cb8f9a1bb0068"
         },
         {
             "event_category": "Football",
