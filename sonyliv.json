@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:36:48 08-08-2026",
+    "last update time": "15:17:16 08-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786223207~acl=/*~id=53997476129872264173985432508877~hmac=e10068f8d15594d45d833a7c1773956b807e599921ea0e8cc16323a23fd27b42",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786223207~acl=/*~id=53997476129872264173985432508877~hmac=e10068f8d15594d45d833a7c1773956b807e599921ea0e8cc16323a23fd27b42",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786223207~acl=/*~id=53997476129872264173985432508877~hmac=e10068f8d15594d45d833a7c1773956b807e599921ea0e8cc16323a23fd27b42"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786225636~acl=/*~id=23928084884858988583229873362321~hmac=f7aba9122be4270ff1747007646323d548db228fd51c1e99e321ddff332582e8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786225636~acl=/*~id=23928084884858988583229873362321~hmac=f7aba9122be4270ff1747007646323d548db228fd51c1e99e321ddff332582e8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786225636~acl=/*~id=23928084884858988583229873362321~hmac=f7aba9122be4270ff1747007646323d548db228fd51c1e99e321ddff332582e8"
         },
         {
             "event_category": "Football",
