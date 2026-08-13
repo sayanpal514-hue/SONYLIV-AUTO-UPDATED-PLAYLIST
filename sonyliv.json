@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:02:38 13-08-2026",
+    "last update time": "20:13:46 13-08-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2026",
             "match_name": "Shillong Lajong FC vs Langsning FC - 13 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786671157~acl=/*~id=56863216177901105826065498287504~hmac=36567b0c25b6a0a721a9289f90d4ca9132e9acd860d9c2fe21e966c888d3e47c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786671157~acl=/*~id=56863216177901105826065498287504~hmac=36567b0c25b6a0a721a9289f90d4ca9132e9acd860d9c2fe21e966c888d3e47c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786671157~acl=/*~id=56863216177901105826065498287504~hmac=36567b0c25b6a0a721a9289f90d4ca9132e9acd860d9c2fe21e966c888d3e47c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786675425~acl=/*~id=93877185516339751222959542555743~hmac=d5b6e832b67e3b04be131a10b5a4c03e7a1807cc5ef0175b50f4bdfb10091b90",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786675425~acl=/*~id=93877185516339751222959542555743~hmac=d5b6e832b67e3b04be131a10b5a4c03e7a1807cc5ef0175b50f4bdfb10091b90",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786675425~acl=/*~id=93877185516339751222959542555743~hmac=d5b6e832b67e3b04be131a10b5a4c03e7a1807cc5ef0175b50f4bdfb10091b90"
         },
         {
             "event_category": "Golf",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Danish Golf Championship - Day 1 - 13 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786671157~acl=/*~id=56863216177901105826065498287504~hmac=36567b0c25b6a0a721a9289f90d4ca9132e9acd860d9c2fe21e966c888d3e47c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786671157~acl=/*~id=56863216177901105826065498287504~hmac=36567b0c25b6a0a721a9289f90d4ca9132e9acd860d9c2fe21e966c888d3e47c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786671157~acl=/*~id=56863216177901105826065498287504~hmac=36567b0c25b6a0a721a9289f90d4ca9132e9acd860d9c2fe21e966c888d3e47c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786675425~acl=/*~id=93877185516339751222959542555743~hmac=d5b6e832b67e3b04be131a10b5a4c03e7a1807cc5ef0175b50f4bdfb10091b90",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786675425~acl=/*~id=93877185516339751222959542555743~hmac=d5b6e832b67e3b04be131a10b5a4c03e7a1807cc5ef0175b50f4bdfb10091b90",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786675425~acl=/*~id=93877185516339751222959542555743~hmac=d5b6e832b67e3b04be131a10b5a4c03e7a1807cc5ef0175b50f4bdfb10091b90"
         },
         {
             "event_category": "Cricket",
@@ -39,15 +39,6 @@
             "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090536992,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022068/1786459595694531_ind_vs_sl_tests_11aug_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090538649,
@@ -55,6 +46,15 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Arsenal vs Manchester City - FA Community Shield 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090536992,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022068/1786459595694531_ind_vs_sl_tests_11aug_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
         },
         {
             "event_category": "Cricket",
