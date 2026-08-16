@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:55:25 16-08-2026",
+    "last update time": "19:15:48 16-08-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,16 +12,6 @@
             "audioLanguageName": "ENG",
             "event_name": "FA Community Shield 2026",
             "match_name": "Arsenal vs Manchester City - 16 Aug 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090539338,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022255/1786797425630863_SL_vs_IND_1stTest_Day2_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 2 - 1st Test - 16 Aug 2026"
         },
         {
             "event_category": "Football",
@@ -42,9 +32,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Mixed Disability IT20 series",
             "match_name": "England vs India - 6th T20I - 16 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929923~acl=/*~id=06198262697037740266604390484154~hmac=16fcc9ed164cca26d5be84b8b3f78aa17eccbc62b47da34b4ac0bd57e4880311",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929923~acl=/*~id=06198262697037740266604390484154~hmac=16fcc9ed164cca26d5be84b8b3f78aa17eccbc62b47da34b4ac0bd57e4880311",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929923~acl=/*~id=06198262697037740266604390484154~hmac=16fcc9ed164cca26d5be84b8b3f78aa17eccbc62b47da34b4ac0bd57e4880311"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786931146~acl=/*~id=09265742911811405569706461220679~hmac=dbab53db08ed01d2d12350aed3bf583f7ffa0883bfa03a950a55eb5e3de10dae",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786931146~acl=/*~id=09265742911811405569706461220679~hmac=dbab53db08ed01d2d12350aed3bf583f7ffa0883bfa03a950a55eb5e3de10dae",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786931146~acl=/*~id=09265742911811405569706461220679~hmac=dbab53db08ed01d2d12350aed3bf583f7ffa0883bfa03a950a55eb5e3de10dae"
         },
         {
             "event_category": "Racing",
@@ -55,9 +45,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
             "match_name": "R17 - London E-Prix - Final Race - 16 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929923~acl=/*~id=06198262697037740266604390484154~hmac=16fcc9ed164cca26d5be84b8b3f78aa17eccbc62b47da34b4ac0bd57e4880311",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929923~acl=/*~id=06198262697037740266604390484154~hmac=16fcc9ed164cca26d5be84b8b3f78aa17eccbc62b47da34b4ac0bd57e4880311",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929923~acl=/*~id=06198262697037740266604390484154~hmac=16fcc9ed164cca26d5be84b8b3f78aa17eccbc62b47da34b4ac0bd57e4880311"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786931146~acl=/*~id=09265742911811405569706461220679~hmac=dbab53db08ed01d2d12350aed3bf583f7ffa0883bfa03a950a55eb5e3de10dae",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786931146~acl=/*~id=09265742911811405569706461220679~hmac=dbab53db08ed01d2d12350aed3bf583f7ffa0883bfa03a950a55eb5e3de10dae",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786931146~acl=/*~id=09265742911811405569706461220679~hmac=dbab53db08ed01d2d12350aed3bf583f7ffa0883bfa03a950a55eb5e3de10dae"
         },
         {
             "event_category": "Golf",
@@ -68,9 +58,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Danish Golf Championship - Day 4 - 16 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929923~acl=/*~id=06198262697037740266604390484154~hmac=16fcc9ed164cca26d5be84b8b3f78aa17eccbc62b47da34b4ac0bd57e4880311",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929923~acl=/*~id=06198262697037740266604390484154~hmac=16fcc9ed164cca26d5be84b8b3f78aa17eccbc62b47da34b4ac0bd57e4880311",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929923~acl=/*~id=06198262697037740266604390484154~hmac=16fcc9ed164cca26d5be84b8b3f78aa17eccbc62b47da34b4ac0bd57e4880311"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786931146~acl=/*~id=09265742911811405569706461220679~hmac=dbab53db08ed01d2d12350aed3bf583f7ffa0883bfa03a950a55eb5e3de10dae",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786931146~acl=/*~id=09265742911811405569706461220679~hmac=dbab53db08ed01d2d12350aed3bf583f7ffa0883bfa03a950a55eb5e3de10dae",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786931146~acl=/*~id=09265742911811405569706461220679~hmac=dbab53db08ed01d2d12350aed3bf583f7ffa0883bfa03a950a55eb5e3de10dae"
         },
         {
             "event_category": "Cricket",
