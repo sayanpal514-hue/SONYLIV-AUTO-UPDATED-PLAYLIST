@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:08:27 18-08-2026",
+    "last update time": "18:19:39 18-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,48 +12,9 @@
             "audioLanguageName": "English",
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 4 - 1st Test - 18 Aug 2026 [English]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1808/ENG/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1808/ENG/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1808/ENG/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090539530_Telugu",
-            "src": "https://img.media.jio.com/tvpimages/2/73/355e6f0ed1d85a0ba49b36a60d5b18be_1787045421837_l_medium.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "Telugu",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 4 - 1st Test - 18 Aug 2026 [Telugu]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1808/TEL/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1808/TEL/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1808/TEL/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090539530_Kannada",
-            "src": "https://img.media.jio.com/tvpimages/75/16/2b3b5f2d708853b393ae29f8ca2acc55_1787045421771_l_medium.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "Kannada",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 4 - 1st Test - 18 Aug 2026 [Kannada]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1808/KAN/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1808/KAN/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1808/KAN/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090539530_Hindi",
-            "src": "https://img.media.jio.com/tvpimages/67/13/55e85d2871b45e319621d7ce3c19c10e_1787045421754_l_medium.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "Hindi",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 4 - 1st Test - 18 Aug 2026 [Hindi]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1808/HIN/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1808/HIN/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1808/HIN/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1808/ENG/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1808/ENG/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1808/ENG/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930"
         },
         {
             "event_category": "Cricket",
@@ -64,9 +25,48 @@
             "audioLanguageName": "Tamil",
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 4 - 1st Test - 18 Aug 2026 [Tamil]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1808/TAM/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1808/TAM/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1808/TAM/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1808/TAM/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1808/TAM/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1808/TAM/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090539530_Kannada",
+            "src": "https://img.media.jio.com/tvpimages/75/16/2b3b5f2d708853b393ae29f8ca2acc55_1787045421771_l_medium.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "Kannada",
+            "event_name": "India Tour of Sri Lanka 2026",
+            "match_name": "Day 4 - 1st Test - 18 Aug 2026 [Kannada]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1808/KAN/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1808/KAN/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1808/KAN/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090539530_Hindi",
+            "src": "https://img.media.jio.com/tvpimages/67/13/55e85d2871b45e319621d7ce3c19c10e_1787045421754_l_medium.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "Hindi",
+            "event_name": "India Tour of Sri Lanka 2026",
+            "match_name": "Day 4 - 1st Test - 18 Aug 2026 [Hindi]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1808/HIN/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1808/HIN/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1808/HIN/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090539530_Telugu",
+            "src": "https://img.media.jio.com/tvpimages/2/73/355e6f0ed1d85a0ba49b36a60d5b18be_1787045421837_l_medium.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "Telugu",
+            "event_name": "India Tour of Sri Lanka 2026",
+            "match_name": "Day 4 - 1st Test - 18 Aug 2026 [Telugu]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1808/TEL/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1808/TEL/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1808/TEL/master.m3u8?hdnea=exp=1787100579~acl=/*~id=28343691599007964467050811472416~hmac=31350791ca1055e6f7a4658e3034cf28b5a937daec4a5ee6443fea1b4d4fd930"
         },
         {
             "event_category": "Cricket",
