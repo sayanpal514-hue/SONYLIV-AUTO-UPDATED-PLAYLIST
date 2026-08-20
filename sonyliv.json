@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:44:24 21-08-2026",
+    "last update time": "03:14:48 21-08-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "Indianapolis - Day 1 - 20 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787303664~acl=/*~id=00137132823277349163747857575800~hmac=91dd5d308f385748fa428f3efde72d6c67f21be60d1bdcb580633c367ee57f0d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787303664~acl=/*~id=00137132823277349163747857575800~hmac=91dd5d308f385748fa428f3efde72d6c67f21be60d1bdcb580633c367ee57f0d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787303664~acl=/*~id=00137132823277349163747857575800~hmac=91dd5d308f385748fa428f3efde72d6c67f21be60d1bdcb580633c367ee57f0d"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787305488~acl=/*~id=26273664946416559109867308256204~hmac=a67afc78d61b19c66c7198798287892fa94e7f160bd94f5781b25e3ada6045d8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787305488~acl=/*~id=26273664946416559109867308256204~hmac=a67afc78d61b19c66c7198798287892fa94e7f160bd94f5781b25e3ada6045d8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787305488~acl=/*~id=26273664946416559109867308256204~hmac=a67afc78d61b19c66c7198798287892fa94e7f160bd94f5781b25e3ada6045d8"
         },
         {
             "event_category": "Cricket",
