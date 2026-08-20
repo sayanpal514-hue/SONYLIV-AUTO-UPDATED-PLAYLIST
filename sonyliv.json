@@ -1,17 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:37:24 20-08-2026",
+    "last update time": "19:28:10 20-08-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090539811,
+            "contentId": "1090539811_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022424/178704685129153_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2026",
-            "match_name": "Mohun Bagan SG vs NorthEast United FC - Semi-Final - 20 Aug 2026"
+            "match_name": "Mohun Bagan SG vs NorthEast United FC - Semi-Final - 20 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DC_Mohun2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787277489~acl=/*~id=12117384638440150484295770026384~hmac=f5c6941191621ee7d3723584ddc09c49c9a224f66b924510cf9b08eeeb8386eb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DC_Mohun2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787277489~acl=/*~id=12117384638440150484295770026384~hmac=f5c6941191621ee7d3723584ddc09c49c9a224f66b924510cf9b08eeeb8386eb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DC_Mohun2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787277489~acl=/*~id=12117384638440150484295770026384~hmac=f5c6941191621ee7d3723584ddc09c49c9a224f66b924510cf9b08eeeb8386eb"
         },
         {
             "event_category": "Cricket",
@@ -22,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 2 - 1st Test - 20 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787274444~acl=/*~id=23006608677381237583709131528586~hmac=093a5a20ef05222b75c649b4247738df7038faf660917a8f654dcc71f01841b5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787274444~acl=/*~id=23006608677381237583709131528586~hmac=093a5a20ef05222b75c649b4247738df7038faf660917a8f654dcc71f01841b5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787274444~acl=/*~id=23006608677381237583709131528586~hmac=093a5a20ef05222b75c649b4247738df7038faf660917a8f654dcc71f01841b5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787277489~acl=/*~id=12117384638440150484295770026384~hmac=f5c6941191621ee7d3723584ddc09c49c9a224f66b924510cf9b08eeeb8386eb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787277489~acl=/*~id=12117384638440150484295770026384~hmac=f5c6941191621ee7d3723584ddc09c49c9a224f66b924510cf9b08eeeb8386eb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787277489~acl=/*~id=12117384638440150484295770026384~hmac=f5c6941191621ee7d3723584ddc09c49c9a224f66b924510cf9b08eeeb8386eb"
         },
         {
             "event_category": "Golf",
@@ -35,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Nexo Championship - Day 1 - 20 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787274444~acl=/*~id=23006608677381237583709131528586~hmac=093a5a20ef05222b75c649b4247738df7038faf660917a8f654dcc71f01841b5",
-            "pub_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787274444~acl=/*~id=23006608677381237583709131528586~hmac=093a5a20ef05222b75c649b4247738df7038faf660917a8f654dcc71f01841b5",
-            "video_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787274444~acl=/*~id=23006608677381237583709131528586~hmac=093a5a20ef05222b75c649b4247738df7038faf660917a8f654dcc71f01841b5"
+            "dai_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787277489~acl=/*~id=12117384638440150484295770026384~hmac=f5c6941191621ee7d3723584ddc09c49c9a224f66b924510cf9b08eeeb8386eb",
+            "pub_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787277489~acl=/*~id=12117384638440150484295770026384~hmac=f5c6941191621ee7d3723584ddc09c49c9a224f66b924510cf9b08eeeb8386eb",
+            "video_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787277489~acl=/*~id=12117384638440150484295770026384~hmac=f5c6941191621ee7d3723584ddc09c49c9a224f66b924510cf9b08eeeb8386eb"
         },
         {
             "event_category": "Cricket",
