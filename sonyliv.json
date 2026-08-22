@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:20:02 22-08-2026",
+    "last update time": "18:20:53 22-08-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Nexo Championship - Day 3 - 22 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787442602~acl=/*~id=18335966763376951239812809014185~hmac=c10fde0bdd240970414c0e07cc155f9acdee25ee14a1574995f475b217172d92",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787442602~acl=/*~id=18335966763376951239812809014185~hmac=c10fde0bdd240970414c0e07cc155f9acdee25ee14a1574995f475b217172d92",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787442602~acl=/*~id=18335966763376951239812809014185~hmac=c10fde0bdd240970414c0e07cc155f9acdee25ee14a1574995f475b217172d92"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787446253~acl=/*~id=42334608365302854815029085940005~hmac=1708a442bacae264e0e769689f89f93b1aedf3ce191ca5e206025250d64ddc46",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787446253~acl=/*~id=42334608365302854815029085940005~hmac=1708a442bacae264e0e769689f89f93b1aedf3ce191ca5e206025250d64ddc46",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787446253~acl=/*~id=42334608365302854815029085940005~hmac=1708a442bacae264e0e769689f89f93b1aedf3ce191ca5e206025250d64ddc46"
         },
         {
             "event_category": "Football",
