@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:52:54 23-08-2026",
+    "last update time": "21:13:06 23-08-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090540053_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Nexo Championship - Day 4 - 23 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Nex2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787541774~acl=/*~id=21465488216741463234699779472172~hmac=e30afbd1504ee6d7a3e2ddca79199e874a41487ec19a58f1ad3e97ae4855f709",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Nex2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787541774~acl=/*~id=21465488216741463234699779472172~hmac=e30afbd1504ee6d7a3e2ddca79199e874a41487ec19a58f1ad3e97ae4855f709",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Nex2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787541774~acl=/*~id=21465488216741463234699779472172~hmac=e30afbd1504ee6d7a3e2ddca79199e874a41487ec19a58f1ad3e97ae4855f709"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
