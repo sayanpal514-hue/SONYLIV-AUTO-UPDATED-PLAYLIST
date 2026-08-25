@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:38:37 25-08-2026",
+    "last update time": "00:29:28 26-08-2026",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090540287_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022867/1787641635206448_JPL26_ROYALS_HYDERABAD_vs_MUMBAI_SOBO_STARS_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": "1090540291_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022595/1787037914304926_UCL_26_Play-offs-Leg2_Lask-vs-Celtic_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "JITO Premier League 2026",
-            "match_name": "Royals Hyderabad vs Mumbai Sobo Stars - 25 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/criclive2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787724511~acl=/*~id=60745023129868244341117981971366~hmac=27ccaea991e6676800106af40f45369ac3c402b10fb6e898268fcdecf351e2b5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/criclive2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787724511~acl=/*~id=60745023129868244341117981971366~hmac=27ccaea991e6676800106af40f45369ac3c402b10fb6e898268fcdecf351e2b5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/criclive2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787724511~acl=/*~id=60745023129868244341117981971366~hmac=27ccaea991e6676800106af40f45369ac3c402b10fb6e898268fcdecf351e2b5"
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "LASK vs Celtic- Play-offs - Leg 2 - 26 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787727567~acl=/*~id=08328329668415926183974974648948~hmac=a0a8b7d52d2e711ac62d0d5d8b0fdd566e19377b7554184d2284a219e9eb498c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787727567~acl=/*~id=08328329668415926183974974648948~hmac=a0a8b7d52d2e711ac62d0d5d8b0fdd566e19377b7554184d2284a219e9eb498c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787727567~acl=/*~id=08328329668415926183974974648948~hmac=a0a8b7d52d2e711ac62d0d5d8b0fdd566e19377b7554184d2284a219e9eb498c"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,22 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2026-27",
             "match_name": "Sabah vs H Beer-Sheva - Play-offs - Leg 2 - 25 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787724511~acl=/*~id=60745023129868244341117981971366~hmac=27ccaea991e6676800106af40f45369ac3c402b10fb6e898268fcdecf351e2b5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787724511~acl=/*~id=60745023129868244341117981971366~hmac=27ccaea991e6676800106af40f45369ac3c402b10fb6e898268fcdecf351e2b5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787724511~acl=/*~id=60745023129868244341117981971366~hmac=27ccaea991e6676800106af40f45369ac3c402b10fb6e898268fcdecf351e2b5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787727567~acl=/*~id=08328329668415926183974974648948~hmac=a0a8b7d52d2e711ac62d0d5d8b0fdd566e19377b7554184d2284a219e9eb498c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787727567~acl=/*~id=08328329668415926183974974648948~hmac=a0a8b7d52d2e711ac62d0d5d8b0fdd566e19377b7554184d2284a219e9eb498c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787727567~acl=/*~id=08328329668415926183974974648948~hmac=a0a8b7d52d2e711ac62d0d5d8b0fdd566e19377b7554184d2284a219e9eb498c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090540292_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022855/1787636422132922_UCL_26_Play-offs-Leg2_Bodo-Glimt-vs-NEC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Bodo/Glimt  vs N.E.C. - Play-offs - Leg 2 - 26 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787727567~acl=/*~id=08328329668415926183974974648948~hmac=a0a8b7d52d2e711ac62d0d5d8b0fdd566e19377b7554184d2284a219e9eb498c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787727567~acl=/*~id=08328329668415926183974974648948~hmac=a0a8b7d52d2e711ac62d0d5d8b0fdd566e19377b7554184d2284a219e9eb498c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787727567~acl=/*~id=08328329668415926183974974648948~hmac=a0a8b7d52d2e711ac62d0d5d8b0fdd566e19377b7554184d2284a219e9eb498c"
         },
         {
             "event_category": "Cricket",
