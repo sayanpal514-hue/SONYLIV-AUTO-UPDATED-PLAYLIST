@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:45:21 29-08-2026",
+    "last update time": "12:07:15 29-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Chennai Striker Kings vs Bengal Indians - 29 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788020120~acl=/*~id=66284918379943402723027765932450~hmac=00b17772e5f4040ccdad18e32c4ac023405325a8acf2543572dd98a064f0db54",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788020120~acl=/*~id=66284918379943402723027765932450~hmac=00b17772e5f4040ccdad18e32c4ac023405325a8acf2543572dd98a064f0db54",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788020120~acl=/*~id=66284918379943402723027765932450~hmac=00b17772e5f4040ccdad18e32c4ac023405325a8acf2543572dd98a064f0db54"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788028635~acl=/*~id=87934022019792931687269036244043~hmac=df6b493ec1f328fde87793d5abd61a12f311a8cd6878225ad85f2dd50b54aaf4",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788028635~acl=/*~id=87934022019792931687269036244043~hmac=df6b493ec1f328fde87793d5abd61a12f311a8cd6878225ad85f2dd50b54aaf4",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788028635~acl=/*~id=87934022019792931687269036244043~hmac=df6b493ec1f328fde87793d5abd61a12f311a8cd6878225ad85f2dd50b54aaf4"
         },
         {
             "event_category": "Cricket",
