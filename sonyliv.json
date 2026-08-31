@@ -1,29 +1,46 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:35:28 31-08-2026",
+    "last update time": "19:01:29 31-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090540966_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817348238770_JPL_26_Indore-Hawks-vs-Pune-Peshwas_live_landscape_thumb.jpg",
+            "contentId": "1090540967_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "JITO Premier League 2026",
-            "match_name": "Indore Hawks vs Pune Peshwas - 31 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788199527~acl=/*~id=79455361630643263743542108749090~hmac=6642d0d4dfbdadd77644da490504704bcc38cc0a5cc73ff2ee53f690074521dc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788199527~acl=/*~id=79455361630643263743542108749090~hmac=6642d0d4dfbdadd77644da490504704bcc38cc0a5cc73ff2ee53f690074521dc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788199527~acl=/*~id=79455361630643263743542108749090~hmac=6642d0d4dfbdadd77644da490504704bcc38cc0a5cc73ff2ee53f690074521dc"
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Mohali Kings vs Bathinda Royals - 31 Aug 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446"
         },
         {
             "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090539555,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022689/1787385247438643_AsianGame26_IND_vs_PAK_QF_Promo_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090540967_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Mohali Kings vs Bathinda Royals - 31 Aug 2026 [PAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090540966_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817924978770_JPL_26_Chennai-Striker-Kings-vs-Gujarat-Gladiators_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+            "event_name": "JITO Premier League 2026",
+            "match_name": "Chennai Striker Kings vs Gujarat Gladiators - 31 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446"
         },
         {
             "event_category": "Cricket",
@@ -37,8 +54,26 @@
         {
             "event_category": "Cricket",
             "isLive": false,
+            "contentId": 1090539555,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022689/1787385247438643_AsianGame26_IND_vs_PAK_QF_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
             "contentId": 1090540064,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023104/1787914224074953_womens_AsiaCup26_india_vs_pakistan_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Women's Asia Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541101,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023166/1788020751666199_AsiaCup26_India_vs_HongKong_Promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Women's Asia Cup 2026"
