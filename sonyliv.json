@@ -1,52 +1,13 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:01:29 31-08-2026",
+    "last update time": "01:07:07 01-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540967_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Mohali Kings vs Bathinda Royals - 31 Aug 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540967_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Mohali Kings vs Bathinda Royals - 31 Aug 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540966_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817924978770_JPL_26_Chennai-Striker-Kings-vs-Gujarat-Gladiators_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "JITO Premier League 2026",
-            "match_name": "Chennai Striker Kings vs Gujarat Gladiators - 31 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446"
-        },
-        {
-            "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090538884,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022390/178698244305456_Asia_Cup_Womens_2026_GOB_Landscape_Thumb.jpg",
+            "contentId": 1090541101,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023166/1788020751666199_AsiaCup26_India_vs_HongKong_Promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Women's Asia Cup 2026"
@@ -72,20 +33,20 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090541101,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023166/1788020751666199_AsiaCup26_India_vs_HongKong_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Women's Asia Cup 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090539554,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022509/1787129959036804_England_vs_Pakistan_2026_GOB_Landscape_Thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of England 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090538884,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022390/178698244305456_Asia_Cup_Womens_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Women's Asia Cup 2026"
         },
         {
             "event_category": "Sports",
