@@ -1,8 +1,30 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:46:01 04-09-2026",
+    "last update time": "11:29:07 04-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541354_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023472/1788498900551134_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb_rev.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "JITO Premier League 2026",
+            "match_name": "Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544747~acl=/*~id=01385910902035275148550338549526~hmac=94337ca1d18b57e13de5ea9c2faffd351a1a897560956fe8adad82e683f300b2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544747~acl=/*~id=01385910902035275148550338549526~hmac=94337ca1d18b57e13de5ea9c2faffd351a1a897560956fe8adad82e683f300b2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544747~acl=/*~id=01385910902035275148550338549526~hmac=94337ca1d18b57e13de5ea9c2faffd351a1a897560956fe8adad82e683f300b2"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090540064,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023104/1787914224074953_womens_AsiaCup26_india_vs_pakistan_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Women's Asia Cup 2026"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
@@ -15,8 +37,8 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090540064,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023104/1787914224074953_womens_AsiaCup26_india_vs_pakistan_dated_landscape_thumb.jpg",
+            "contentId": 1090538884,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023423/1788440866654283_WAC26_UAE_vs_Indonesia_tonight_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Women's Asia Cup 2026"
@@ -29,15 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of England 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090538884,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022390/178698244305456_Asia_Cup_Womens_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Women's Asia Cup 2026"
         },
         {
             "event_category": "Sports",
