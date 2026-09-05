@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:59:30 05-09-2026",
+    "last update time": "17:32:29 05-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788652948~acl=/*~id=28625055359821421847326939137357~hmac=bcea89cbd2f671e151c2c9891f5ddd8300768580a35576ab7ef09b71ed336e92",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788652948~acl=/*~id=28625055359821421847326939137357~hmac=bcea89cbd2f671e151c2c9891f5ddd8300768580a35576ab7ef09b71ed336e92",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788652948~acl=/*~id=28625055359821421847326939137357~hmac=bcea89cbd2f671e151c2c9891f5ddd8300768580a35576ab7ef09b71ed336e92"
         },
         {
             "event_category": "Cricket",
@@ -25,22 +25,22 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788652948~acl=/*~id=28625055359821421847326939137357~hmac=bcea89cbd2f671e151c2c9891f5ddd8300768580a35576ab7ef09b71ed336e92",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788652948~acl=/*~id=28625055359821421847326939137357~hmac=bcea89cbd2f671e151c2c9891f5ddd8300768580a35576ab7ef09b71ed336e92",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788652948~acl=/*~id=28625055359821421847326939137357~hmac=bcea89cbd2f671e151c2c9891f5ddd8300768580a35576ab7ef09b71ed336e92"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Golf",
             "isLive": true,
-            "contentId": "1090541486_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023514/1788552191862987_JPL_Qualifier2_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": "1090541489_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341899788287_DP-World-2026-Omega-European-Masters_Day3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "JITO Premier League 2026",
-            "match_name": "Bangalore Blasters vs Rajasthan Rajvansh - Qualifier 2 - 5 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954"
+            "event_name": "DP World Tour",
+            "match_name": "Omega European Masters - Day 3 - 5 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788652948~acl=/*~id=28625055359821421847326939137357~hmac=bcea89cbd2f671e151c2c9891f5ddd8300768580a35576ab7ef09b71ed336e92",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788652948~acl=/*~id=28625055359821421847326939137357~hmac=bcea89cbd2f671e151c2c9891f5ddd8300768580a35576ab7ef09b71ed336e92",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788652948~acl=/*~id=28625055359821421847326939137357~hmac=bcea89cbd2f671e151c2c9891f5ddd8300768580a35576ab7ef09b71ed336e92"
         },
         {
             "event_category": "Cricket",
@@ -61,6 +61,24 @@
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090541426,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023519/178859150945674_UCL_26_Real-Madrid-vs-Inter_promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Real Madrid vs Inter Milan - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090541423,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023519/178859220175574_UCL_26_Liverpool-vs-Atletico_promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2026-27 "
+        },
+        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090539554,
@@ -73,7 +91,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090538884,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022390/178698244305456_Asia_Cup_Womens_2026_GOB_Landscape_Thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023426/1788441987009355_WAC26_Sri_Lanka_vs_Bangladesh_dated_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Women's Asia Cup 2026"
@@ -112,4 +130,61 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022650/178730215594955_WAC26_INDvsPAK_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcomi
+            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090538916,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of New Zealand "
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539152,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541319,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835793245835_AWC_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541320,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835785489135_Sunil_grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of New Zealand "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090541422,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788441889883189_UCL_md_1_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Champions League Matchday 1"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090541419,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788442201984189_ucl_barcelona_cs_feyenoord_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Feyenoord - UEFA Champions League 2026-27"
+        }
+    ]
+}
