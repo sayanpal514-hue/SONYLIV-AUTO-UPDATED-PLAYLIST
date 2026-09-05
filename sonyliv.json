@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:06:17 05-09-2026",
+    "last update time": "13:59:30 05-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541487_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418071657255_PT20_Fazilka-Falcons-vs-Bathinda-Royals_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541487_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418071657255_PT20_Fazilka-Falcons-vs-Bathinda-Royals_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [PAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Bangalore Blasters vs Rajasthan Rajvansh - Qualifier 2 - 5 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788626176~acl=/*~id=89052226314255615826514839781482~hmac=c4e6af1f1a1494b36974e306da86391201474afffd608b0ae85078cf5f24baf0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788626176~acl=/*~id=89052226314255615826514839781482~hmac=c4e6af1f1a1494b36974e306da86391201474afffd608b0ae85078cf5f24baf0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788626176~acl=/*~id=89052226314255615826514839781482~hmac=c4e6af1f1a1494b36974e306da86391201474afffd608b0ae85078cf5f24baf0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788640168~acl=/*~id=80705848383092476245503186246155~hmac=cb374f6309c90343d7a48d4f746c50b51a8d5ead4dba1b44447a3a725d816954"
         },
         {
             "event_category": "Cricket",
@@ -86,56 +112,4 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022650/178730215594955_WAC26_INDvsPAK_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090538916,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of New Zealand "
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090539152,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090541319,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835793245835_AWC_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090541320,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835785489135_Sunil_grover_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of New Zealand "
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090541422,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788441889883189_UCL_md_1_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Champions League Matchday 1"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090541426,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788442172708189_ucl_real_madrid_vs_Inter_landscape.jpg",
-            "broadcast_channel": "Sony Sports T
+            "event_name": "Upcomi
