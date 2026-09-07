@@ -1,8 +1,73 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:40:39 07-09-2026",
+    "last update time": "23:05:29 07-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541616_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "Pakistan Women vs Hong Kong, China Women - 7 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541616_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "Pakistan Women vs Hong Kong, China Women - 7 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541616_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "Pakistan Women vs Hong Kong, China Women - 7 Sep 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541616_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "Pakistan Women vs Hong Kong, China Women - 7 Sep 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541616_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "Pakistan Women vs Hong Kong, China Women - 7 Sep 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +77,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Amritsar Soormas - 7 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788826239~acl=/*~id=40461104374405759380219671322844~hmac=ed530ac00983e37230a3de24d6e96c3aeca7194bba94c24db381198a3d5c3bca",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788826239~acl=/*~id=40461104374405759380219671322844~hmac=ed530ac00983e37230a3de24d6e96c3aeca7194bba94c24db381198a3d5c3bca",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788826239~acl=/*~id=40461104374405759380219671322844~hmac=ed530ac00983e37230a3de24d6e96c3aeca7194bba94c24db381198a3d5c3bca"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c"
         },
         {
             "event_category": "Cricket",
@@ -25,27 +90,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Amritsar Soormas - 7 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788826239~acl=/*~id=40461104374405759380219671322844~hmac=ed530ac00983e37230a3de24d6e96c3aeca7194bba94c24db381198a3d5c3bca",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788826239~acl=/*~id=40461104374405759380219671322844~hmac=ed530ac00983e37230a3de24d6e96c3aeca7194bba94c24db381198a3d5c3bca",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788826239~acl=/*~id=40461104374405759380219671322844~hmac=ed530ac00983e37230a3de24d6e96c3aeca7194bba94c24db381198a3d5c3bca"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090541422,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788441889883189_UCL_md_1_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Champions League Matchday 1"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090539555,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835790230635_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788845727~acl=/*~id=65732013182836275343191388864285~hmac=5dfdff289920562917170167645eb363c8fc4cb10175a4e6d7bdcd9d51ec022c"
         },
         {
             "event_category": "Football",
@@ -59,11 +106,29 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090541419,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788687725995563_UCL2627_MD1_Barcelona_vs_Feyenoord_dated_landscape_thumb.jpg",
+            "contentId": 1090541423,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023577/1788698153784480_UCL2627_MD1_liverpool_vs_atletico_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs Feyenoord - UEFA Champions League 2026-27"
+            "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2026-27 "
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090539555,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835790230635_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090541742,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023619/1788784627467392_UCL2627_MD1_Porto_vs_Man_city_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Porto vs Manchester City - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -77,11 +142,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090541423,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023577/1788698153784480_UCL2627_MD1_liverpool_vs_atletico_dated_landscape_thumb.jpg",
+            "contentId": 1090541419,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788687725995563_UCL2627_MD1_Barcelona_vs_Feyenoord_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2026-27 "
+            "event_name": "Upcoming - Barcelona vs Feyenoord - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Sports",
@@ -158,11 +223,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090541424,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788442143877189_ucl_napoli_vs_arsenal_landscape.jpg",
+            "contentId": 1090541422,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788441889883189_UCL_md_1_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Napoli vs Arsenal - UEFA Champions League 2026-27"
+            "event_name": "Upcoming - UEFA Champions League Matchday 1"
         }
     ]
 }
