@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:03:58 09-09-2026",
+    "last update time": "20:34:58 09-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 1 - 3rd Test - 9 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789004036~acl=/*~id=81815363575007216087137567950003~hmac=4f776e4ad7731933fa11215c2701ad26eb3e6f88e419a2a8b3c1bea53ddcfc7b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789004036~acl=/*~id=81815363575007216087137567950003~hmac=4f776e4ad7731933fa11215c2701ad26eb3e6f88e419a2a8b3c1bea53ddcfc7b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789004036~acl=/*~id=81815363575007216087137567950003~hmac=4f776e4ad7731933fa11215c2701ad26eb3e6f88e419a2a8b3c1bea53ddcfc7b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789009496~acl=/*~id=24757837584084533329067475922631~hmac=311115c19b0690280c219073161e8855f7f399edf92df2d20303c6b7878d5f29",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789009496~acl=/*~id=24757837584084533329067475922631~hmac=311115c19b0690280c219073161e8855f7f399edf92df2d20303c6b7878d5f29",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789009496~acl=/*~id=24757837584084533329067475922631~hmac=311115c19b0690280c219073161e8855f7f399edf92df2d20303c6b7878d5f29"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Mohali Kings vs Bathinda Royals - 9 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789004036~acl=/*~id=81815363575007216087137567950003~hmac=4f776e4ad7731933fa11215c2701ad26eb3e6f88e419a2a8b3c1bea53ddcfc7b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789004036~acl=/*~id=81815363575007216087137567950003~hmac=4f776e4ad7731933fa11215c2701ad26eb3e6f88e419a2a8b3c1bea53ddcfc7b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789004036~acl=/*~id=81815363575007216087137567950003~hmac=4f776e4ad7731933fa11215c2701ad26eb3e6f88e419a2a8b3c1bea53ddcfc7b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789009496~acl=/*~id=24757837584084533329067475922631~hmac=311115c19b0690280c219073161e8855f7f399edf92df2d20303c6b7878d5f29",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789009496~acl=/*~id=24757837584084533329067475922631~hmac=311115c19b0690280c219073161e8855f7f399edf92df2d20303c6b7878d5f29",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789009496~acl=/*~id=24757837584084533329067475922631~hmac=311115c19b0690280c219073161e8855f7f399edf92df2d20303c6b7878d5f29"
         },
         {
             "event_category": "Cricket",
@@ -38,9 +38,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Mohali Kings vs Bathinda Royals - 9 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789004036~acl=/*~id=81815363575007216087137567950003~hmac=4f776e4ad7731933fa11215c2701ad26eb3e6f88e419a2a8b3c1bea53ddcfc7b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789004036~acl=/*~id=81815363575007216087137567950003~hmac=4f776e4ad7731933fa11215c2701ad26eb3e6f88e419a2a8b3c1bea53ddcfc7b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789004036~acl=/*~id=81815363575007216087137567950003~hmac=4f776e4ad7731933fa11215c2701ad26eb3e6f88e419a2a8b3c1bea53ddcfc7b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789009496~acl=/*~id=24757837584084533329067475922631~hmac=311115c19b0690280c219073161e8855f7f399edf92df2d20303c6b7878d5f29",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789009496~acl=/*~id=24757837584084533329067475922631~hmac=311115c19b0690280c219073161e8855f7f399edf92df2d20303c6b7878d5f29",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789009496~acl=/*~id=24757837584084533329067475922631~hmac=311115c19b0690280c219073161e8855f7f399edf92df2d20303c6b7878d5f29"
         },
         {
             "event_category": "Football",
@@ -51,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2026-27",
             "match_name": "Liverpool vs Atletico - MD 1 - 8 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789004036~acl=/*~id=81815363575007216087137567950003~hmac=4f776e4ad7731933fa11215c2701ad26eb3e6f88e419a2a8b3c1bea53ddcfc7b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789004036~acl=/*~id=81815363575007216087137567950003~hmac=4f776e4ad7731933fa11215c2701ad26eb3e6f88e419a2a8b3c1bea53ddcfc7b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789004036~acl=/*~id=81815363575007216087137567950003~hmac=4f776e4ad7731933fa11215c2701ad26eb3e6f88e419a2a8b3c1bea53ddcfc7b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789009496~acl=/*~id=24757837584084533329067475922631~hmac=311115c19b0690280c219073161e8855f7f399edf92df2d20303c6b7878d5f29",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789009496~acl=/*~id=24757837584084533329067475922631~hmac=311115c19b0690280c219073161e8855f7f399edf92df2d20303c6b7878d5f29",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789009496~acl=/*~id=24757837584084533329067475922631~hmac=311115c19b0690280c219073161e8855f7f399edf92df2d20303c6b7878d5f29"
         },
         {
             "event_category": "Football",
@@ -99,6 +99,24 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Napoli vs Arsenal - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090541421,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023705/1788944588135809_UCL26_Bayern-Munich-vs-Bodo-Glimt_promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Bodo/Glimt - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090540264,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023705/1788945849467809_UCL26_Manchester-United-vs-Sabah_promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Manchester United - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Sports",
@@ -180,15 +198,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Paris Saint-Germain vs Slovan Bratislava - UEFA Champions League 2026-27 "
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090541421,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023705/1788944588135809_UCL26_Bayern-Munich-vs-Bodo-Glimt_promo_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Bodo/Glimt - UEFA Champions League 2026-27"
         }
     ]
 }
