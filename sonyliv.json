@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:03:05 11-09-2026",
+    "last update time": "19:05:43 11-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,35 @@
             "audioLanguageName": "ENG",
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 3 - 3rd Test - 11 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789162384~acl=/*~id=40119537652448441968693415976569~hmac=ac193289697b883105ae9af7898f18c38af5443a7465053276d5941f8d01322b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789162384~acl=/*~id=40119537652448441968693415976569~hmac=ac193289697b883105ae9af7898f18c38af5443a7465053276d5941f8d01322b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789162384~acl=/*~id=40119537652448441968693415976569~hmac=ac193289697b883105ae9af7898f18c38af5443a7465053276d5941f8d01322b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789176941~acl=/*~id=48072833479305946708696516847919~hmac=45f5b7b44dfd31ea9d8ef5acf733b96524565fa87c4444a0cb3121be201b2fd3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789176941~acl=/*~id=48072833479305946708696516847919~hmac=45f5b7b44dfd31ea9d8ef5acf733b96524565fa87c4444a0cb3121be201b2fd3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789176941~acl=/*~id=48072833479305946708696516847919~hmac=45f5b7b44dfd31ea9d8ef5acf733b96524565fa87c4444a0cb3121be201b2fd3"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090542087_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023750/1789016444203995_PT20_Amritsar-Soormas-vs-Ludhiana-Lions_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League 2026 ",
+            "match_name": "Amritsar Soormas vs Ludhiana Lions - 11 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789176941~acl=/*~id=48072833479305946708696516847919~hmac=45f5b7b44dfd31ea9d8ef5acf733b96524565fa87c4444a0cb3121be201b2fd3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789176941~acl=/*~id=48072833479305946708696516847919~hmac=45f5b7b44dfd31ea9d8ef5acf733b96524565fa87c4444a0cb3121be201b2fd3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789176941~acl=/*~id=48072833479305946708696516847919~hmac=45f5b7b44dfd31ea9d8ef5acf733b96524565fa87c4444a0cb3121be201b2fd3"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090542087_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023750/1789016444203995_PT20_Amritsar-Soormas-vs-Ludhiana-Lions_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League 2026 ",
+            "match_name": "Amritsar Soormas vs Ludhiana Lions - 11 Sep 2026 [PAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789176941~acl=/*~id=48072833479305946708696516847919~hmac=45f5b7b44dfd31ea9d8ef5acf733b96524565fa87c4444a0cb3121be201b2fd3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789176941~acl=/*~id=48072833479305946708696516847919~hmac=45f5b7b44dfd31ea9d8ef5acf733b96524565fa87c4444a0cb3121be201b2fd3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789176941~acl=/*~id=48072833479305946708696516847919~hmac=45f5b7b44dfd31ea9d8ef5acf733b96524565fa87c4444a0cb3121be201b2fd3"
         },
         {
             "event_category": "Golf",
@@ -25,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Amgen Irish Open - Day 2 - Session 1 - 11 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789162384~acl=/*~id=40119537652448441968693415976569~hmac=ac193289697b883105ae9af7898f18c38af5443a7465053276d5941f8d01322b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789162384~acl=/*~id=40119537652448441968693415976569~hmac=ac193289697b883105ae9af7898f18c38af5443a7465053276d5941f8d01322b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789162384~acl=/*~id=40119537652448441968693415976569~hmac=ac193289697b883105ae9af7898f18c38af5443a7465053276d5941f8d01322b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789176941~acl=/*~id=48072833479305946708696516847919~hmac=45f5b7b44dfd31ea9d8ef5acf733b96524565fa87c4444a0cb3121be201b2fd3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789176941~acl=/*~id=48072833479305946708696516847919~hmac=45f5b7b44dfd31ea9d8ef5acf733b96524565fa87c4444a0cb3121be201b2fd3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789176941~acl=/*~id=48072833479305946708696516847919~hmac=45f5b7b44dfd31ea9d8ef5acf733b96524565fa87c4444a0cb3121be201b2fd3"
         },
         {
             "event_category": "Sports",
