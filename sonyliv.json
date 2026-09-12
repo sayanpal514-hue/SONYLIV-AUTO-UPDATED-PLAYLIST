@@ -1,33 +1,43 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:16:49 12-09-2026",
+    "last update time": "17:49:29 12-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
+            "contentId": 1090542240,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434990750794_eng_vs_pak_3test_D4_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pakistan Tour of England 2026",
+            "match_name": "Day 4 - 3rd Test - 12 Sep 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
             "contentId": "1090542233_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League 2026",
-            "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789246008~acl=/*~id=89921455298980933247452541607338~hmac=b2a228b43fd2775cf575d6f1411f24b311522120596df5c10030f536886c8b30",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789246008~acl=/*~id=89921455298980933247452541607338~hmac=b2a228b43fd2775cf575d6f1411f24b311522120596df5c10030f536886c8b30",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789246008~acl=/*~id=89921455298980933247452541607338~hmac=b2a228b43fd2775cf575d6f1411f24b311522120596df5c10030f536886c8b30"
+            "match_name": "Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789258769~acl=/*~id=93528653763706989444888565841186~hmac=903edf9fbbbfe2bde5e9c740bafbfb3122ade274c193a6a3674cd79a63ea8347",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789258769~acl=/*~id=93528653763706989444888565841186~hmac=903edf9fbbbfe2bde5e9c740bafbfb3122ade274c193a6a3674cd79a63ea8347",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789258769~acl=/*~id=93528653763706989444888565841186~hmac=903edf9fbbbfe2bde5e9c740bafbfb3122ade274c193a6a3674cd79a63ea8347"
         },
         {
             "event_category": "Cricket",
             "isLive": true,
             "contentId": "1090542233_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League 2026",
-            "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789246008~acl=/*~id=89921455298980933247452541607338~hmac=b2a228b43fd2775cf575d6f1411f24b311522120596df5c10030f536886c8b30",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789246008~acl=/*~id=89921455298980933247452541607338~hmac=b2a228b43fd2775cf575d6f1411f24b311522120596df5c10030f536886c8b30",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789246008~acl=/*~id=89921455298980933247452541607338~hmac=b2a228b43fd2775cf575d6f1411f24b311522120596df5c10030f536886c8b30"
+            "match_name": "Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [PAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789258769~acl=/*~id=93528653763706989444888565841186~hmac=903edf9fbbbfe2bde5e9c740bafbfb3122ade274c193a6a3674cd79a63ea8347",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789258769~acl=/*~id=93528653763706989444888565841186~hmac=903edf9fbbbfe2bde5e9c740bafbfb3122ade274c193a6a3674cd79a63ea8347",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789258769~acl=/*~id=93528653763706989444888565841186~hmac=903edf9fbbbfe2bde5e9c740bafbfb3122ade274c193a6a3674cd79a63ea8347"
         },
         {
             "event_category": "Cricket",
