@@ -1,98 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:18:25 14-09-2026",
+    "last update time": "02:39:40 14-09-2026",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Archery",
             "isLive": true,
-            "contentId": "1090542250_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": "1090542287_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789825896248_Hyundai-Archery-World-Cup-Final_Recurve-Women-Elite-QFs-to-Finals_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "DP World Women's Asia Cup 2026",
-            "match_name": "India Women vs Sri Lanka Women - Final - 13 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090542250_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Women's Asia Cup 2026",
-            "match_name": "India Women vs Sri Lanka Women - Final - 13 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090542250_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Women's Asia Cup 2026",
-            "match_name": "India Women vs Sri Lanka Women - Final - 13 Sep 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090542250_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Women's Asia Cup 2026",
-            "match_name": "India Women vs Sri Lanka Women - Final - 13 Sep 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090542250_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Women's Asia Cup 2026",
-            "match_name": "India Women vs Sri Lanka Women - Final - 13 Sep 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090542258_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023901/1789234896847462_PT20_Final_Amritsar_Soormas_vs_Ludhiana_Lions_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League 2026 ",
-            "match_name": "Amritsar Soormas vs Ludhiana Lions - Final - 13 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090542258_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023901/1789234896847462_PT20_Final_Amritsar_Soormas_vs_Ludhiana_Lions_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League 2026 ",
-            "match_name": "Amritsar Soormas vs Ludhiana Lions - Final - 13 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789368503~acl=/*~id=78509375010809641652388621664615~hmac=deadda12a10b7940f1eca4e5007aee198e9016746cce6d79736e95d55be83350"
+            "event_name": "Hyundai Archery World Cup Final",
+            "match_name": "Recurve Women Elite QFs to Finals - 14 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789376980~acl=/*~id=54510161068964125003848732767700~hmac=018097ba79008ca3de7d6e4e483320348a773eebb81bb894ca0ef16a380c743a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789376980~acl=/*~id=54510161068964125003848732767700~hmac=018097ba79008ca3de7d6e4e483320348a773eebb81bb894ca0ef16a380c743a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789376980~acl=/*~id=54510161068964125003848732767700~hmac=018097ba79008ca3de7d6e4e483320348a773eebb81bb894ca0ef16a380c743a"
         },
         {
             "event_category": "Sports",
@@ -142,8 +64,8 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090538916,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
+            "contentId": 1090542506,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023939/1789325459946480_IND_vs_NZ_landsacpe_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of New Zealand "
@@ -156,6 +78,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090538916,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of New Zealand "
         },
         {
             "event_category": "Cricket",
