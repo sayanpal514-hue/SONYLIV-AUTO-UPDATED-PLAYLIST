@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:32:49 16-09-2026",
+    "last update time": "22:15:37 16-09-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090542525_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023482/1788516374836313_UEL2627_Omonia_vs_Celta_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Omonia vs Celta - MD1 - 16 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789620335~acl=/*~id=42324103392132692993529578325877~hmac=9ddf62e4bd154e87adb58fba39ff931df809ce8a52eec750f14c08dbfef66a14",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789620335~acl=/*~id=42324103392132692993529578325877~hmac=9ddf62e4bd154e87adb58fba39ff931df809ce8a52eec750f14c08dbfef66a14",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789620335~acl=/*~id=42324103392132692993529578325877~hmac=9ddf62e4bd154e87adb58fba39ff931df809ce8a52eec750f14c08dbfef66a14"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090542536_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788525626109688_UEL2627_MD1_Ararat_Armenia_vs_Sparta_Praha_4sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Ararat-Armenia vs Sparta Praha - MD1 - 16 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789620335~acl=/*~id=42324103392132692993529578325877~hmac=9ddf62e4bd154e87adb58fba39ff931df809ce8a52eec750f14c08dbfef66a14",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789620335~acl=/*~id=42324103392132692993529578325877~hmac=9ddf62e4bd154e87adb58fba39ff931df809ce8a52eec750f14c08dbfef66a14",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789620335~acl=/*~id=42324103392132692993529578325877~hmac=9ddf62e4bd154e87adb58fba39ff931df809ce8a52eec750f14c08dbfef66a14"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
