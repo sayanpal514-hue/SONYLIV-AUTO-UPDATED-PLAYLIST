@@ -1,26 +1,117 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:29:07 17-09-2026",
+    "last update time": "00:21:51 18-09-2026",
     "matches": [
         {
-            "event_category": "Golf",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090542526_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419411300492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day1_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
+            "contentId": "1090542748_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531987736688_UEL2627_MD1_Juventus_vs_NEC_4sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "BMW PGA Championship - Day 1 - 17 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789700347~acl=/*~id=20639358788887237769303026285853~hmac=136a2f18fa2be22e77a3c48da3b74782e9a5968a0be8ded99972cc61fae4dbd0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789700347~acl=/*~id=20639358788887237769303026285853~hmac=136a2f18fa2be22e77a3c48da3b74782e9a5968a0be8ded99972cc61fae4dbd0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789700347~acl=/*~id=20639358788887237769303026285853~hmac=136a2f18fa2be22e77a3c48da3b74782e9a5968a0be8ded99972cc61fae4dbd0"
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Juventus vs N.E.C. - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090542669_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789658144438480_ENGvsSL26_2t20i_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Sri Lanka Tour of England 2026",
+            "match_name": "2nd T20I - 17 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090542751_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532891246688_UEL2627_MD1_Crystal_Palace_vs_Lech_Poznan_4sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Crystal Palace vs Lech Poznan - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090542749_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532535195688_UEL2627_MD1_Real_Sociedad_vs_Bournemouth_4sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Real Sociedad vs Bournemouth - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090542752_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788533233404688_UEL2627_MD1_Besiktas_vs_Marseille_4sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Besiktas vs Marseille - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090542754_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788534760819688_UEL2627_MD1_Celtic_vs_Ferencvaros_4sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Celtic vs Ferencvaros - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090542753_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788534519058688_UEL2627_MD1_Viktoria_Plzen_vs_Union_SG_4sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Viktoria Plzen vs Union SG - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090542755_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788535295410688_UEL2627_MD1_Lillestrom_vs_Torreense_4sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Lillestrom vs Torreense - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789714308~acl=/*~id=53667129740137944179840658650332~hmac=a69173c20381144956175c733d769333948211bc70a4ac687595de8a12de8395"
         },
         {
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090542750,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024037/1789570963657146_Asian_Game_26__IND_vs_JPN_DDT_Promo_landscape.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024037/1789570942343146_Asian_Game_26__IND_vs_JPN_Today_Promo_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - India vs Japan"
@@ -35,15 +126,6 @@
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090541822,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024068/1789622595285332_ENGvsSL26_2t20i_Promo_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sri Lanka Tour of England 2026"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090542429,
@@ -51,6 +133,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541822,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657417833286_ENGvsSL26_3t20i_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sri Lanka Tour of England 2026"
         },
         {
             "event_category": "Football",
@@ -123,6 +214,42 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Badminton",
+            "isLive": false,
+            "contentId": 1090542855,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896641489761_AG26_badminton_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PV Sindhu - Badminton - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090542857,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896636843861_AG26_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Women's Cricket - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090542858,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896636989691_AG26_hockey_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hockey - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Boxing",
+            "isLive": false,
+            "contentId": 1090542859,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896641412141_AG26_boxing_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026"
         }
     ]
 }
