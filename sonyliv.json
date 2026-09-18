@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:04:39 18-09-2026",
+    "last update time": "00:35:58 19-09-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090542757_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419421651492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day2_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "BMW PGA Championship - Day 2 - 18 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789792478~acl=/*~id=33386253568974280370496187409911~hmac=b9f2a9a9c95d768ac9ff0054b83f69e7143a1332a1fe11d412fe0832e6c60a1d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789792478~acl=/*~id=33386253568974280370496187409911~hmac=b9f2a9a9c95d768ac9ff0054b83f69e7143a1332a1fe11d412fe0832e6c60a1d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789792478~acl=/*~id=33386253568974280370496187409911~hmac=b9f2a9a9c95d768ac9ff0054b83f69e7143a1332a1fe11d412fe0832e6c60a1d"
-        },
         {
             "event_category": "Sports",
             "isLive": false,
@@ -69,6 +56,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Kabaddi - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090542973,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024166/1789755195729581_AG26_SF_BANW_vs_INDW_promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - Bangladesh vs India"
         },
         {
             "event_category": "Cricket",
@@ -150,15 +146,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
-            "event_category": "Wrestling",
-            "isLive": false,
-            "contentId": 1090542856,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789670864188908_AG26_wrestling_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Wrestling - 20th Asian Games Aichi-Nagoya 2026"
         }
     ]
 }
