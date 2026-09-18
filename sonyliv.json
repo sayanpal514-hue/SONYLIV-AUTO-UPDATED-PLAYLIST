@@ -1,30 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:56:19 18-09-2026",
+    "last update time": "12:59:33 18-09-2026",
     "matches": [
-        {
-            "event_category": "Sports",
-            "isLive": true,
-            "contentId": "1090541370_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024067/178961947665553_Asain_games_26_QF_Sri-Lanka-vs-Malaysia_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Sri Lanka vs Malaysia - Quarter-Final - 18 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789741579~acl=/*~id=67015423777163955568357106994986~hmac=5c88e5ee5fecf974171ae0e140e1da7827cf8d8d86246eaca14163569fbc9cad",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789741579~acl=/*~id=67015423777163955568357106994986~hmac=5c88e5ee5fecf974171ae0e140e1da7827cf8d8d86246eaca14163569fbc9cad",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789741579~acl=/*~id=67015423777163955568357106994986~hmac=5c88e5ee5fecf974171ae0e140e1da7827cf8d8d86246eaca14163569fbc9cad"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090542750,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024037/1789570942343146_Asian_Game_26__IND_vs_JPN_Today_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - India vs Japan"
-        },
         {
             "event_category": "Sports",
             "isLive": false,
@@ -125,15 +103,6 @@
             "event_name": "Upcoming - PV Sindhu - Badminton - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090542857,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896636843861_AG26_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Women's Cricket - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
             "event_category": "Hockey",
             "isLive": false,
             "contentId": 1090542858,
@@ -159,6 +128,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Wrestling - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Weightlifting",
+            "isLive": false,
+            "contentId": 1090542860,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789671092809908_AG26_weightlifting_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Weightlifting - 20th Asian Games Aichi-Nagoya 2026"
         }
     ]
 }
