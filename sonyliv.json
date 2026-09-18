@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:59:33 18-09-2026",
+    "last update time": "17:42:07 18-09-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090542757_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419421651492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day2_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "BMW PGA Championship - Day 2 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789776726~acl=/*~id=10831601958606402643657174113423~hmac=fbeab4a53aa69990d54962a383907b484c3926c625198d79e2e2a0e8107be0ea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789776726~acl=/*~id=10831601958606402643657174113423~hmac=fbeab4a53aa69990d54962a383907b484c3926c625198d79e2e2a0e8107be0ea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789776726~acl=/*~id=10831601958606402643657174113423~hmac=fbeab4a53aa69990d54962a383907b484c3926c625198d79e2e2a0e8107be0ea"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
@@ -13,6 +26,15 @@
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090542858,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024128/1789719294270711_ag_hockey_promo_dated_landscape_Thum.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hockey - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090542429,
@@ -20,6 +42,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil"
+        },
+        {
+            "event_category": "Kabaddi",
+            "isLive": false,
+            "contentId": 1090542862,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024138/1789725215020559_ag_promo_INDvsJPN_kabbadi_dated_landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Kabaddi - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
@@ -103,13 +134,13 @@
             "event_name": "Upcoming - PV Sindhu - Badminton - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
-            "event_category": "Hockey",
+            "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090542858,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789668850015908_AG26_hockey_dated_promo_landscape_thumb.jpg",
+            "contentId": 1090542857,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896636843861_AG26_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Hockey - 20th Asian Games Aichi-Nagoya 2026"
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Women's Cricket - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Boxing",
@@ -128,15 +159,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Wrestling - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
-            "event_category": "Weightlifting",
-            "isLive": false,
-            "contentId": 1090542860,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789671092809908_AG26_weightlifting_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Weightlifting - 20th Asian Games Aichi-Nagoya 2026"
         }
     ]
 }
