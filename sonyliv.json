@@ -1,103 +1,85 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:53:01 20-09-2026",
+    "last update time": "12:16:47 20-09-2026",
     "matches": [
         {
-            "event_category": "Teqball",
+            "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090541381_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024236/178985582050160_AG26_Teqball_Womens_Singles_Bronze_Medal_Sakamoto_vs_Quimcy_live_landscape_thumb.jpg",
+            "contentId": "1090541371_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": " Sakamoto vs Quimcy - Teqball - 20 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1"
-        },
-        {
-            "event_category": "Teqball",
-            "isLive": true,
-            "contentId": "1090541381_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024236/178985582050160_AG26_Teqball_Womens_Singles_Bronze_Medal_Sakamoto_vs_Quimcy_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": " Sakamoto vs Quimcy - Teqball - 20 Sep 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1"
-        },
-        {
-            "event_category": "Teqball",
-            "isLive": true,
-            "contentId": "1090541381_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024236/178985582050160_AG26_Teqball_Womens_Singles_Bronze_Medal_Sakamoto_vs_Quimcy_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": " Sakamoto vs Quimcy - Teqball - 20 Sep 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1"
-        },
-        {
-            "event_category": "Teqball",
-            "isLive": true,
-            "contentId": "1090541381_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024236/178985582050160_AG26_Teqball_Womens_Singles_Bronze_Medal_Sakamoto_vs_Quimcy_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": " Sakamoto vs Quimcy - Teqball - 20 Sep 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1"
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339"
         },
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090541367_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024212/1789821616972902_AG26_womens_SF_pak_vs_sl_landscape_thumb.jpg",
+            "contentId": "1090541371_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Pakistan Women vs Sri Lanka Women - Semi-Final - 20 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090542963_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024182/178977556799144_UFC_Van_vs_Pantoja_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC 331 - Van vs Pantoja 2",
-            "match_name": "UFC 331 - Van vs Pantoja 2 - 20 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789910579~acl=/*~id=95262087046949848115731828969693~hmac=9eca88b56bd91523d62bdf9f04ddb08be567de694281edced05e27670cf30de1"
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339"
         },
         {
             "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090542973,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024176/1789769649728343_AG26_womens_SF_india_vs_bangladesh_today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - Bangladesh vs India"
-        },
-        {
-            "event_category": "Hockey",
-            "isLive": false,
-            "contentId": 1090542858,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024128/1789719294270711_ag_hockey_promo_dated_landscape_Thum.jpg",
+            "isLive": true,
+            "contentId": "1090541371_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Hockey - 20th Asian Games Aichi-Nagoya 2026"
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541371_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541371_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339"
+        },
+        {
+            "event_category": "Shooting",
+            "isLive": true,
+            "contentId": "1090541378_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024259/1789882955684941_AG26_Shooting_10m_Air_Rifle_Women_Individual_Elavenil_Vidarsa_Sonam_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "10m Air Rifle Women Individual - Final - Shooting - 20 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789930006~acl=/*~id=04489115795851102399137768644155~hmac=cc5dbe54a900d44c1e9175e55e662d7f0d4839ad6db9cfc71091e8784360d339"
         },
         {
             "event_category": "Football",
@@ -224,6 +206,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Wrestling",
+            "isLive": false,
+            "contentId": 1090542856,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789670864188908_AG26_wrestling_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Wrestling - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Weightlifting",
+            "isLive": false,
+            "contentId": 1090542860,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789671092809908_AG26_weightlifting_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Weightlifting - 20th Asian Games Aichi-Nagoya 2026"
         }
     ]
 }
