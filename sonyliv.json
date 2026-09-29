@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:26:01 29-09-2026",
+    "last update time": "19:10:50 29-09-2026",
     "matches": [
         {
             "event_category": "Sports",
@@ -11,10 +11,10 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 11 - 29 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790708160~acl=/*~id=01805162919295543329763392064907~hmac=1d91aaddc4c70e1632d16e9f84591bff93182678910e46201d2e601e7f8a3cfd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790708160~acl=/*~id=01805162919295543329763392064907~hmac=1d91aaddc4c70e1632d16e9f84591bff93182678910e46201d2e601e7f8a3cfd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790708160~acl=/*~id=01805162919295543329763392064907~hmac=1d91aaddc4c70e1632d16e9f84591bff93182678910e46201d2e601e7f8a3cfd"
+            "match_name": "Day 10 - 29 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16"
         },
         {
             "event_category": "Sports",
@@ -24,10 +24,10 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 11 - 29 Sep 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790708160~acl=/*~id=01805162919295543329763392064907~hmac=1d91aaddc4c70e1632d16e9f84591bff93182678910e46201d2e601e7f8a3cfd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790708160~acl=/*~id=01805162919295543329763392064907~hmac=1d91aaddc4c70e1632d16e9f84591bff93182678910e46201d2e601e7f8a3cfd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790708160~acl=/*~id=01805162919295543329763392064907~hmac=1d91aaddc4c70e1632d16e9f84591bff93182678910e46201d2e601e7f8a3cfd"
+            "match_name": "Day 10 - 29 Sep 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16"
         },
         {
             "event_category": "Sports",
@@ -37,10 +37,10 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 11 - 29 Sep 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790708160~acl=/*~id=01805162919295543329763392064907~hmac=1d91aaddc4c70e1632d16e9f84591bff93182678910e46201d2e601e7f8a3cfd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790708160~acl=/*~id=01805162919295543329763392064907~hmac=1d91aaddc4c70e1632d16e9f84591bff93182678910e46201d2e601e7f8a3cfd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790708160~acl=/*~id=01805162919295543329763392064907~hmac=1d91aaddc4c70e1632d16e9f84591bff93182678910e46201d2e601e7f8a3cfd"
+            "match_name": "Day 10 - 29 Sep 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16"
         },
         {
             "event_category": "Sports",
@@ -50,10 +50,23 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 11 - 29 Sep 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790708160~acl=/*~id=01805162919295543329763392064907~hmac=1d91aaddc4c70e1632d16e9f84591bff93182678910e46201d2e601e7f8a3cfd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790708160~acl=/*~id=01805162919295543329763392064907~hmac=1d91aaddc4c70e1632d16e9f84591bff93182678910e46201d2e601e7f8a3cfd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790708160~acl=/*~id=01805162919295543329763392064907~hmac=1d91aaddc4c70e1632d16e9f84591bff93182678910e46201d2e601e7f8a3cfd"
+            "match_name": "Day 10 - 29 Sep 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16"
+        },
+        {
+            "event_category": "Athletics",
+            "isLive": true,
+            "contentId": "1090543298_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025279/1790679830904578_athletics_final_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Athletics - 29 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/ag_mds3_2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/ag_mds3_2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/ag_mds3_2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790732448~acl=/*~id=13087585728752703579504535348109~hmac=a18bd7316f10b4d2e7374207e376a082b3787d28b8d13a60a50836365039df16"
         },
         {
             "event_category": "Football",
@@ -63,6 +76,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 2 - UEFA Nations League 2026-27"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090545635,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025246/1790659986855403_AG_INDvsSL_SF_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Sri Lanka - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090542858,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025290/1790677275471678_ag_hockey_indvspak_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hockey - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Football",
@@ -86,7 +117,7 @@
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090539555,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025246/1790659986855403_AG_INDvsSL_SF_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
