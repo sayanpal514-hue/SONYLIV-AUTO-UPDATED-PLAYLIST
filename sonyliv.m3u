@@ -1,19 +1,31 @@
 #EXTM3U
-#DATE:- 06-10-2026 19:05
+#DATE:- 06-10-2026 19:10
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="SonyLiv-Football", India vs Uruguay - 6 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791336068~acl=/*~id=01046345091453105625984730550514~hmac=8559ef5cd51850b54fa084f4c95f15f2202c29a20768b287e8522a48cbfbe3d1
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791336676~acl=/*~id=61997276447684889277614211662654~hmac=a817e409f6527ebf9b0aa03ff0522ed0d376471629598d386f0183a9d4fcb10c
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="SonyLiv-Football", India vs Uruguay - 6 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791336068~acl=/*~id=01046345091453105625984730550514~hmac=8559ef5cd51850b54fa084f4c95f15f2202c29a20768b287e8522a48cbfbe3d1
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791336676~acl=/*~id=61997276447684889277614211662654~hmac=a817e409f6527ebf9b0aa03ff0522ed0d376471629598d386f0183a9d4fcb10c
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="SonyLiv-Football", India vs Uruguay - 6 Oct 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791336068~acl=/*~id=01046345091453105625984730550514~hmac=8559ef5cd51850b54fa084f4c95f15f2202c29a20768b287e8522a48cbfbe3d1
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791336676~acl=/*~id=61997276447684889277614211662654~hmac=a817e409f6527ebf9b0aa03ff0522ed0d376471629598d386f0183a9d4fcb10c
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="SonyLiv-Football", India vs Uruguay - 6 Oct 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791336068~acl=/*~id=01046345091453105625984730550514~hmac=8559ef5cd51850b54fa084f4c95f15f2202c29a20768b287e8522a48cbfbe3d1
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791336676~acl=/*~id=61997276447684889277614211662654~hmac=a817e409f6527ebf9b0aa03ff0522ed0d376471629598d386f0183a9d4fcb10c
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="SonyLiv-Football", India vs Uruguay - 6 Oct 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791336068~acl=/*~id=01046345091453105625984730550514~hmac=8559ef5cd51850b54fa084f4c95f15f2202c29a20768b287e8522a48cbfbe3d1
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791336676~acl=/*~id=61997276447684889277614211662654~hmac=a817e409f6527ebf9b0aa03ff0522ed0d376471629598d386f0183a9d4fcb10c
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791197268369540_VCL_Emperia-Marathas-vs-Punjab-Aerostrikers_live_landscape_thumb.jpg" group-title="SonyLiv-Volleyball", Emperia Marathas vs Punjab Aerostrikers - 6 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791336676~acl=/*~id=61997276447684889277614211662654~hmac=a817e409f6527ebf9b0aa03ff0522ed0d376471629598d386f0183a9d4fcb10c
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791197268369540_VCL_Emperia-Marathas-vs-Punjab-Aerostrikers_live_landscape_thumb.jpg" group-title="SonyLiv-Volleyball", Emperia Marathas vs Punjab Aerostrikers - 6 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/Volleyba0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791336676~acl=/*~id=61997276447684889277614211662654~hmac=a817e409f6527ebf9b0aa03ff0522ed0d376471629598d386f0183a9d4fcb10c
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196784948723_IND_vs_URU_live_landscape_thumb_benagli.jpg" group-title="SonyLiv-Football", India vs Uruguay - 6 Oct 2026 (Bengali) [BEN]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791336676~acl=/*~id=61997276447684889277614211662654~hmac=a817e409f6527ebf9b0aa03ff0522ed0d376471629598d386f0183a9d4fcb10c
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790880464463804_UNL2627_MD4_Kazakhstan_vs_Faroe_Islands_landscape_thumb.jpg" group-title="SonyLiv-Football", Kazakhstan vs Faroe Islands - 6 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791336676~acl=/*~id=61997276447684889277614211662654~hmac=a817e409f6527ebf9b0aa03ff0522ed0d376471629598d386f0183a9d4fcb10c
