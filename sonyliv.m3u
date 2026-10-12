@@ -1,19 +1,22 @@
 #EXTM3U
-#DATE:- 12-10-2026 20:15
+#DATE:- 12-10-2026 20:20
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg" group-title="SonyLiv-Football", NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791858894~acl=/*~id=58726734003910562126022581739700~hmac=7ccdb88833d40e0194fec502087935f2dfb652d19bddd4673b793bcc464b3175
+https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791859502~acl=/*~id=85248150505674106599528030039082~hmac=a5fc7f751ee19dc1172dd3a69a05b439c6efdd36bacb4e776c524b84317d1f0f
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg" group-title="SonyLiv-Football", NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791858894~acl=/*~id=58726734003910562126022581739700~hmac=7ccdb88833d40e0194fec502087935f2dfb652d19bddd4673b793bcc464b3175
+https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791859502~acl=/*~id=85248150505674106599528030039082~hmac=a5fc7f751ee19dc1172dd3a69a05b439c6efdd36bacb4e776c524b84317d1f0f
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg" group-title="SonyLiv-Football", NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [BEN]
-https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791858894~acl=/*~id=58726734003910562126022581739700~hmac=7ccdb88833d40e0194fec502087935f2dfb652d19bddd4673b793bcc464b3175
+https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791859502~acl=/*~id=85248150505674106599528030039082~hmac=a5fc7f751ee19dc1172dd3a69a05b439c6efdd36bacb4e776c524b84317d1f0f
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137588402652_VCL_Punjab-Aerostrikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg" group-title="SonyLiv-Volleyball", Punjab Aerostrikers vs Ayodhya Garjan - 12 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791858894~acl=/*~id=58726734003910562126022581739700~hmac=7ccdb88833d40e0194fec502087935f2dfb652d19bddd4673b793bcc464b3175
+https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791859502~acl=/*~id=85248150505674106599528030039082~hmac=a5fc7f751ee19dc1172dd3a69a05b439c6efdd36bacb4e776c524b84317d1f0f
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137588402652_VCL_Punjab-Aerostrikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg" group-title="SonyLiv-Volleyball", Punjab Aerostrikers vs Ayodhya Garjan - 12 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791858894~acl=/*~id=58726734003910562126022581739700~hmac=7ccdb88833d40e0194fec502087935f2dfb652d19bddd4673b793bcc464b3175
+https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791859502~acl=/*~id=85248150505674106599528030039082~hmac=a5fc7f751ee19dc1172dd3a69a05b439c6efdd36bacb4e776c524b84317d1f0f
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026132/1791659750238725_APL26_Chero_Archers_vs_Mighty_Marathas_live_landscape_thumb.jpg" group-title="SonyLiv-Archery", Chero Archers vs Mighty Marathas - 12 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791859502~acl=/*~id=85248150505674106599528030039082~hmac=a5fc7f751ee19dc1172dd3a69a05b439c6efdd36bacb4e776c524b84317d1f0f
