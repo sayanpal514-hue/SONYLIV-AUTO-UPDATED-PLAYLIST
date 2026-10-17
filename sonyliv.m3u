@@ -1,19 +1,22 @@
 #EXTM3U
-#DATE:- 17-10-2026 21:25
+#DATE:- 17-10-2026 21:30
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="SonyLiv-Football", Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792294867~acl=/*~id=81630875882782894628866023419267~hmac=b2bd7fc7b777368432b95171afe5265b7c90cf0abd386b83e60db68184362958
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792295474~acl=/*~id=00675736822042661947044090339602~hmac=e863c3138787d87f1a1c18d0ed78266268ac42085161b35aaf5a230d074fd678
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="SonyLiv-Football", Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792294867~acl=/*~id=81630875882782894628866023419267~hmac=b2bd7fc7b777368432b95171afe5265b7c90cf0abd386b83e60db68184362958
+https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792295474~acl=/*~id=00675736822042661947044090339602~hmac=e863c3138787d87f1a1c18d0ed78266268ac42085161b35aaf5a230d074fd678
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="SonyLiv-Football", Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792294867~acl=/*~id=81630875882782894628866023419267~hmac=b2bd7fc7b777368432b95171afe5265b7c90cf0abd386b83e60db68184362958
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792295474~acl=/*~id=00675736822042661947044090339602~hmac=e863c3138787d87f1a1c18d0ed78266268ac42085161b35aaf5a230d074fd678
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130499544133_VCL26_Ayodhya-Garjan-vs-Delhi-Dynamites_live_landscape_thumb.jpg" group-title="SonyLiv-Volleyball", Ayodhya Garjan vs Delhi Dynamites - Super 6 - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792294867~acl=/*~id=81630875882782894628866023419267~hmac=b2bd7fc7b777368432b95171afe5265b7c90cf0abd386b83e60db68184362958
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792295474~acl=/*~id=00675736822042661947044090339602~hmac=e863c3138787d87f1a1c18d0ed78266268ac42085161b35aaf5a230d074fd678
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130499544133_VCL26_Ayodhya-Garjan-vs-Delhi-Dynamites_live_landscape_thumb.jpg" group-title="SonyLiv-Volleyball", Ayodhya Garjan vs Delhi Dynamites - Super 6 - 17 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792294867~acl=/*~id=81630875882782894628866023419267~hmac=b2bd7fc7b777368432b95171afe5265b7c90cf0abd386b83e60db68184362958
+https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792295474~acl=/*~id=00675736822042661947044090339602~hmac=e863c3138787d87f1a1c18d0ed78266268ac42085161b35aaf5a230d074fd678
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959774061578_APL26_Prithviraj-Yodhas-vs-Rajputana-Royals_live_landscape_thumb.jpg" group-title="SonyLiv-Archery", Prithviraj Yodhas vs Rajputana Royals - 17 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792295474~acl=/*~id=00675736822042661947044090339602~hmac=e863c3138787d87f1a1c18d0ed78266268ac42085161b35aaf5a230d074fd678
