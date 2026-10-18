@@ -1,10 +1,10 @@
 #EXTM3U
-#DATE:- 18-10-2026 10:45
+#DATE:- 18-10-2026 10:50
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="SonyLiv-Golf", DP World India Championship - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792343323~acl=/*~id=92865845173682326845876057552459~hmac=685106052ed43b262384d792d7e1f2509268dc668a747e005fb0288717ef1b4b
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792343929~acl=/*~id=30762763335744300241445038004091~hmac=9bda8b881632b3e5a4886a9e27cd1b68651c1fd8a8aff2368e304a1396f1e3ac
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="SonyLiv-Golf", SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792343323~acl=/*~id=92865845173682326845876057552459~hmac=685106052ed43b262384d792d7e1f2509268dc668a747e005fb0288717ef1b4b
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792343929~acl=/*~id=30762763335744300241445038004091~hmac=9bda8b881632b3e5a4886a9e27cd1b68651c1fd8a8aff2368e304a1396f1e3ac
