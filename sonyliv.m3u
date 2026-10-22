@@ -1,25 +1,19 @@
 #EXTM3U
-#DATE:- 22-10-2026 11:25
+#DATE:- 22-10-2026 11:30
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st T20I - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi_2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc857/cricodi_2210-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792691782~acl=/*~id=70358582254080815799274083176022~hmac=80dc241513ef0776a67c3751bf162ee66cd135f640e4434e0892b260fa2212ad
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st T20I - 22 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi_2210-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792691782~acl=/*~id=70358582254080815799274083176022~hmac=80dc241513ef0776a67c3751bf162ee66cd135f640e4434e0892b260fa2212ad
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st T20I - 22 Oct 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi_2210-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi_2210-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792691782~acl=/*~id=70358582254080815799274083176022~hmac=80dc241513ef0776a67c3751bf162ee66cd135f640e4434e0892b260fa2212ad
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st T20I - 22 Oct 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2119941/cricodi_2210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff
+https://sonydaimenew.akamaized.net/hls/live/2119941/cricodi_2210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792691782~acl=/*~id=70358582254080815799274083176022~hmac=80dc241513ef0776a67c3751bf162ee66cd135f640e4434e0892b260fa2212ad
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st T20I - 22 Oct 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2210-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff
-
-#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055323772141_Asian-Tour_LINK-Hong-Kong-Open_D1_live_landscape_thumb.jpg" group-title="SonyLiv-Golf", LINK Hong Kong Open - Day 1 - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_LIN2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff
-
-#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611483435924_DP-World_Genesis-Championship_D1_live_landscape_thumb.jpg" group-title="SonyLiv-Golf", Genesis Championship - Day 1 - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2210-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792691782~acl=/*~id=70358582254080815799274083176022~hmac=80dc241513ef0776a67c3751bf162ee66cd135f640e4434e0892b260fa2212ad
