@@ -1,13 +1,13 @@
 #EXTM3U
-#DATE:- 25-10-2026 18:00
+#DATE:- 25-10-2026 18:05
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg" group-title="SonyLiv-Football", Churchill Brothers SC vs Punjab FC - 25 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792974084~acl=/*~id=21316925829241971374877741843561~hmac=1a01327ee7c950bdc45ae4e7902810e9bb4691d8a0b6af46b217f0dfd4ae969c
+https://sonydaime.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792974690~acl=/*~id=58491845267371663534208018599559~hmac=0aa49e01cd4c9bc5a4fe3c90033152280b764acb7e454be35d62d57b04b56f3a
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg" group-title="SonyLiv-Football", Churchill Brothers SC vs Punjab FC - 25 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792974084~acl=/*~id=21316925829241971374877741843561~hmac=1a01327ee7c950bdc45ae4e7902810e9bb4691d8a0b6af46b217f0dfd4ae969c
+https://sonydaime.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792974690~acl=/*~id=58491845267371663534208018599559~hmac=0aa49e01cd4c9bc5a4fe3c90033152280b764acb7e454be35d62d57b04b56f3a
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026766/1792484827162767_Tamilnadu_Thunders_vs_Gujarat_royals_landscape_thumb.jpg" group-title="SonyLiv-Cricket", Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792974084~acl=/*~id=21316925829241971374877741843561~hmac=1a01327ee7c950bdc45ae4e7902810e9bb4691d8a0b6af46b217f0dfd4ae969c
+https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792974690~acl=/*~id=58491845267371663534208018599559~hmac=0aa49e01cd4c9bc5a4fe3c90033152280b764acb7e454be35d62d57b04b56f3a
