@@ -1,13 +1,13 @@
 #EXTM3U
-#DATE:- 25-10-2026 11:25
+#DATE:- 25-10-2026 11:30
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg" group-title="SonyLiv-Cricket", Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792950462~acl=/*~id=51842491418625521060219200129017~hmac=438ffb97eed5b04bad00b1749c35beef12b73a2428a5b3a3fa25e0fa73f13894
+https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792951068~acl=/*~id=46050432167129250190478886207140~hmac=d07ef7bb65b2e969d773263512ee926b157a55852a0bf50b2130dbb583a58880
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="SonyLiv-Golf", LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792950462~acl=/*~id=51842491418625521060219200129017~hmac=438ffb97eed5b04bad00b1749c35beef12b73a2428a5b3a3fa25e0fa73f13894
+https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792951068~acl=/*~id=46050432167129250190478886207140~hmac=d07ef7bb65b2e969d773263512ee926b157a55852a0bf50b2130dbb583a58880
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg" group-title="SonyLiv-Golf", Genesis Championship - Day 4 - 25 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792950462~acl=/*~id=51842491418625521060219200129017~hmac=438ffb97eed5b04bad00b1749c35beef12b73a2428a5b3a3fa25e0fa73f13894
+https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792951068~acl=/*~id=46050432167129250190478886207140~hmac=d07ef7bb65b2e969d773263512ee926b157a55852a0bf50b2130dbb583a58880
