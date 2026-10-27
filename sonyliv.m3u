@@ -1,16 +1,19 @@
 #EXTM3U
-#DATE:- 27-10-2026 14:05
+#DATE:- 27-10-2026 14:10
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 3rd T20I - 27 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793132878~acl=/*~id=02839327537100261581380370027687~hmac=09f6ee5570acc78dc9856db7a1fd0b5ddd5bd13a648c198aa898c8a1e886112d
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793133541~acl=/*~id=66456321927694999085522549669933~hmac=46ada3f740cbb49d8a0f9e2ba0017e692a2b11d25b8b61b2202e59fc8db8d6e0
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 3rd T20I - 27 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793132878~acl=/*~id=02839327537100261581380370027687~hmac=09f6ee5570acc78dc9856db7a1fd0b5ddd5bd13a648c198aa898c8a1e886112d
+https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793133541~acl=/*~id=66456321927694999085522549669933~hmac=46ada3f740cbb49d8a0f9e2ba0017e692a2b11d25b8b61b2202e59fc8db8d6e0
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 3rd T20I - 27 Oct 2026 [TAM]
-https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793132878~acl=/*~id=02839327537100261581380370027687~hmac=09f6ee5570acc78dc9856db7a1fd0b5ddd5bd13a648c198aa898c8a1e886112d
+https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793133541~acl=/*~id=66456321927694999085522549669933~hmac=46ada3f740cbb49d8a0f9e2ba0017e692a2b11d25b8b61b2202e59fc8db8d6e0
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 3rd T20I - 27 Oct 2026 [TEL]
-https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2710/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793132878~acl=/*~id=02839327537100261581380370027687~hmac=09f6ee5570acc78dc9856db7a1fd0b5ddd5bd13a648c198aa898c8a1e886112d
+https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2710/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793133541~acl=/*~id=66456321927694999085522549669933~hmac=46ada3f740cbb49d8a0f9e2ba0017e692a2b11d25b8b61b2202e59fc8db8d6e0
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 3rd T20I - 27 Oct 2026 [KAN]
+https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2710/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793133541~acl=/*~id=66456321927694999085522549669933~hmac=46ada3f740cbb49d8a0f9e2ba0017e692a2b11d25b8b61b2202e59fc8db8d6e0
