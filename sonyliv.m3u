@@ -1,7 +1,10 @@
 #EXTM3U
-#DATE:- 30-10-2026 20:15
+#DATE:- 30-10-2026 20:20
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg" group-title="SonyLiv-Football", NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793414360~acl=/*~id=00735635620310701750525822300453~hmac=f600d4828330b233978d0ac5fc0b3705963c250ad620c3328dfea7b938e6f343
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793414970~acl=/*~id=94935394126597558376173565576934~hmac=635b632a747256946c4a00e86df57cf05f0bb371fcd0e007e3e664d35d5aa100
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg" group-title="SonyLiv-Football", NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [HIN]
+https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793414970~acl=/*~id=94935394126597558376173565576934~hmac=635b632a747256946c4a00e86df57cf05f0bb371fcd0e007e3e664d35d5aa100
