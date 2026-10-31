@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "t.me/sportlink10",
-    "last update time": "01:45:24 01-11-2026",
+    "last update time": "01:50:23 01-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -137,15 +137,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090551497,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027846/1793366379756665_dortmund_VS_betis_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Dortmund vs Real Betis - UEFA Champions League 2026-27"
         }
     ]
 }
