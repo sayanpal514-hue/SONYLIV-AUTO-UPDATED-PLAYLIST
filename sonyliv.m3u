@@ -1,19 +1,19 @@
 #EXTM3U
-#DATE:- 01-11-2026 15:25
+#DATE:- 01-11-2026 15:30
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 5th T20I - 1 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/out/v1/mpchgp431f/mpchb442/cricodi_0111-eng-3-ts-hls/master.m3u8?hdnea=exp=1793569625~acl=/*~id=35736776744247738688376966070111~hmac=c5caea7103a89a2533bab2dbd998fa2317eba3cdac68f2d08badd003183473ed
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0111/ENG/master.m3u8?hdnea=exp=1793570236~acl=/*~id=91073185564981517195587835555995~hmac=12532689200520c2c822c3409920acb2501f296deda280104f1f4f53108d46d2
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 5th T20I - 1 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0111/HIN/master.m3u8?hdnea=exp=1793569625~acl=/*~id=35736776744247738688376966070111~hmac=c5caea7103a89a2533bab2dbd998fa2317eba3cdac68f2d08badd003183473ed
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0111/HIN/master.m3u8?hdnea=exp=1793570236~acl=/*~id=91073185564981517195587835555995~hmac=12532689200520c2c822c3409920acb2501f296deda280104f1f4f53108d46d2
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 5th T20I - 1 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0111/TEL/master.m3u8?hdnea=exp=1793569625~acl=/*~id=35736776744247738688376966070111~hmac=c5caea7103a89a2533bab2dbd998fa2317eba3cdac68f2d08badd003183473ed
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0111/TEL/master.m3u8?hdnea=exp=1793570236~acl=/*~id=91073185564981517195587835555995~hmac=12532689200520c2c822c3409920acb2501f296deda280104f1f4f53108d46d2
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 5th T20I - 1 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0111/TAM/master.m3u8?hdnea=exp=1793569625~acl=/*~id=35736776744247738688376966070111~hmac=c5caea7103a89a2533bab2dbd998fa2317eba3cdac68f2d08badd003183473ed
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0111/TAM/master.m3u8?hdnea=exp=1793570236~acl=/*~id=91073185564981517195587835555995~hmac=12532689200520c2c822c3409920acb2501f296deda280104f1f4f53108d46d2
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 5th T20I - 1 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0111/KAN/master.m3u8?hdnea=exp=1793569625~acl=/*~id=35736776744247738688376966070111~hmac=c5caea7103a89a2533bab2dbd998fa2317eba3cdac68f2d08badd003183473ed
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0111/KAN/master.m3u8?hdnea=exp=1793570236~acl=/*~id=91073185564981517195587835555995~hmac=12532689200520c2c822c3409920acb2501f296deda280104f1f4f53108d46d2
