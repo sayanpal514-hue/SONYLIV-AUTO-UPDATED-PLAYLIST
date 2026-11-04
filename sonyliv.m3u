@@ -1,13 +1,13 @@
 #EXTM3U
-#DATE:- 04-11-2026 15:30
+#DATE:- 04-11-2026 15:40
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st ODI - 4 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/master.m3u8?hdnea=exp=1793829436~acl=/*~id=97244493821575539301403886447488~hmac=65cd6ae2857af4d3cf453af8072a9ba3b517a0a7d68ec8e0062ba7a45d07682c
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/master.m3u8?hdnea=exp=1793830066~acl=/*~id=11721805437885120700499853548373~hmac=e906817bcaf9fe3db4325912c3842eb2137e86d6f0033c366057b8261b7c0a09
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st ODI - 4 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/master.m3u8?hdnea=exp=1793829436~acl=/*~id=97244493821575539301403886447488~hmac=65cd6ae2857af4d3cf453af8072a9ba3b517a0a7d68ec8e0062ba7a45d07682c
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793830066~acl=/*~id=11721805437885120700499853548373~hmac=e906817bcaf9fe3db4325912c3842eb2137e86d6f0033c366057b8261b7c0a09
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st ODI - 4 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/out/v1/mpchgp431f/mpch8947/cricodi_0311-eng-3-ts-hls/master.m3u8?hdnea=exp=1793829436~acl=/*~id=97244493821575539301403886447488~hmac=65cd6ae2857af4d3cf453af8072a9ba3b517a0a7d68ec8e0062ba7a45d07682c
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793830066~acl=/*~id=11721805437885120700499853548373~hmac=e906817bcaf9fe3db4325912c3842eb2137e86d6f0033c366057b8261b7c0a09
