@@ -1,10 +1,7 @@
 #EXTM3U
-#DATE:- 04-11-2026 22:35
+#DATE:- 04-11-2026 22:40
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958081045483_UEL26_MD4_Stade_RennaisFC_vs_OlympiacosFC_landscape_thumb.jpg" group-title="SonyLiv-Football", Stade Rennais FC vs Olympiacos FC - 4 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793854414~acl=/*~id=54658108134187900765317980223054~hmac=4ba1070178831dcb06a39d4b6be07959532c2d664bd255db75117222a869eb15
-
-#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792891167048359_UYL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg" group-title="SonyLiv-Football", Dortmund vs Real Betis - 4 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793854414~acl=/*~id=54658108134187900765317980223054~hmac=4ba1070178831dcb06a39d4b6be07959532c2d664bd255db75117222a869eb15
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793855020~acl=/*~id=91690791351137340337517922639809~hmac=f5ef709749e2f29a6b7215fbb0ab966b52263a20f0ea599f64f6a0d292b610fe
