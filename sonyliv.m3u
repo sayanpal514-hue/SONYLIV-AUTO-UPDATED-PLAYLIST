@@ -1,19 +1,25 @@
 #EXTM3U
-#DATE:- 04-11-2026 22:50
+#DATE:- 04-11-2026 22:55
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="SonyLiv-Football", AEK Athens vs Real Madrid - 4 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793855627~acl=/*~id=35483434566863547076607072008827~hmac=cc0886574d804c584fe2b0d66122aaa656ff0db2afd3ac9db2df611a132bc543
+https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793856236~acl=/*~id=80808050336227885145037563025475~hmac=e10e6f48b9ff6e8eb9f58a49d6ffc0a5284164a8139b8178252edeb87db7ef4c
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="SonyLiv-Football", AEK Athens vs Real Madrid - 4 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793855627~acl=/*~id=35483434566863547076607072008827~hmac=cc0886574d804c584fe2b0d66122aaa656ff0db2afd3ac9db2df611a132bc543
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793856236~acl=/*~id=80808050336227885145037563025475~hmac=e10e6f48b9ff6e8eb9f58a49d6ffc0a5284164a8139b8178252edeb87db7ef4c
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="SonyLiv-Football", AEK Athens vs Real Madrid - 4 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793855627~acl=/*~id=35483434566863547076607072008827~hmac=cc0886574d804c584fe2b0d66122aaa656ff0db2afd3ac9db2df611a132bc543
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793856236~acl=/*~id=80808050336227885145037563025475~hmac=e10e6f48b9ff6e8eb9f58a49d6ffc0a5284164a8139b8178252edeb87db7ef4c
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="SonyLiv-Football", AEK Athens vs Real Madrid - 4 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793855627~acl=/*~id=35483434566863547076607072008827~hmac=cc0886574d804c584fe2b0d66122aaa656ff0db2afd3ac9db2df611a132bc543
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793856236~acl=/*~id=80808050336227885145037563025475~hmac=e10e6f48b9ff6e8eb9f58a49d6ffc0a5284164a8139b8178252edeb87db7ef4c
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="SonyLiv-Football", AEK Athens vs Real Madrid - 4 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793855627~acl=/*~id=35483434566863547076607072008827~hmac=cc0886574d804c584fe2b0d66122aaa656ff0db2afd3ac9db2df611a132bc543
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793856236~acl=/*~id=80808050336227885145037563025475~hmac=e10e6f48b9ff6e8eb9f58a49d6ffc0a5284164a8139b8178252edeb87db7ef4c
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953990078378_UCL26_MD4_Fenerbahce_vs_Liverpool_landscape_thumb.jpg" group-title="SonyLiv-Football", Fenerbahçe vs Liverpool - 4 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793856236~acl=/*~id=80808050336227885145037563025475~hmac=e10e6f48b9ff6e8eb9f58a49d6ffc0a5284164a8139b8178252edeb87db7ef4c
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958081045483_UEL26_MD4_Stade_RennaisFC_vs_OlympiacosFC_landscape_thumb.jpg" group-title="SonyLiv-Football", Stade Rennais FC vs Olympiacos FC - 4 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793856236~acl=/*~id=80808050336227885145037563025475~hmac=e10e6f48b9ff6e8eb9f58a49d6ffc0a5284164a8139b8178252edeb87db7ef4c
