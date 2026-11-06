@@ -1,4 +1,7 @@
 #EXTM3U
-#DATE:- 07-11-2026 03:00
+#DATE:- 07-11-2026 03:05
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 3rd Unofficial Test - Day 1 - 7 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794043842~acl=/*~id=81609696272402932164692666797374~hmac=9728b6f0350fb5b6f251454878bb79f0bf7ad94c9045b30dac9b416842c849f4
