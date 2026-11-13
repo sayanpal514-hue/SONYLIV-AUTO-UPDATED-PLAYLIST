@@ -1,19 +1,13 @@
 #EXTM3U
-#DATE:- 13-11-2026 06:50
+#DATE:- 13-11-2026 06:55
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 4th ODI - 13 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794574981~acl=/*~id=01875427206450345618290175829773~hmac=0fc8f53cf39a12834f6b5a4a69a828273b9aa0419775511359e6914e1bdbc708
-
-#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 4th ODI - 13 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794574981~acl=/*~id=01875427206450345618290175829773~hmac=0fc8f53cf39a12834f6b5a4a69a828273b9aa0419775511359e6914e1bdbc708
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794576199~acl=/*~id=06791384019488929653941292308567~hmac=9533127f1438514af062083cb445e73b7db27087824b3b433b656243aff4d6b3
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 4th ODI - 13 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794574981~acl=/*~id=01875427206450345618290175829773~hmac=0fc8f53cf39a12834f6b5a4a69a828273b9aa0419775511359e6914e1bdbc708
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794576199~acl=/*~id=06791384019488929653941292308567~hmac=9533127f1438514af062083cb445e73b7db27087824b3b433b656243aff4d6b3
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 4th ODI - 13 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794574981~acl=/*~id=01875427206450345618290175829773~hmac=0fc8f53cf39a12834f6b5a4a69a828273b9aa0419775511359e6914e1bdbc708
-
-#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 4th ODI - 13 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794574981~acl=/*~id=01875427206450345618290175829773~hmac=0fc8f53cf39a12834f6b5a4a69a828273b9aa0419775511359e6914e1bdbc708
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794576199~acl=/*~id=06791384019488929653941292308567~hmac=9533127f1438514af062083cb445e73b7db27087824b3b433b656243aff4d6b3
