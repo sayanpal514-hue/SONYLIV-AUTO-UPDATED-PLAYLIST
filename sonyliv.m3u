@@ -1,19 +1,22 @@
 #EXTM3U
-#DATE:- 14-11-2026 14:25
+#DATE:- 14-11-2026 14:30
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794689260~acl=/*~id=91602482225939350408466079846364~hmac=9965598a43038fe9d5ea5e4ddd77bcdae4a5492bf1a56c67c6054fa55a18c091
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794689870~acl=/*~id=23579875457417936601016615942172~hmac=ba4bf8a9d55dadf5ca4839e2abed76b32e1013cab640d617742cced146754158
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794689260~acl=/*~id=91602482225939350408466079846364~hmac=9965598a43038fe9d5ea5e4ddd77bcdae4a5492bf1a56c67c6054fa55a18c091
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794689870~acl=/*~id=23579875457417936601016615942172~hmac=ba4bf8a9d55dadf5ca4839e2abed76b32e1013cab640d617742cced146754158
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794689260~acl=/*~id=91602482225939350408466079846364~hmac=9965598a43038fe9d5ea5e4ddd77bcdae4a5492bf1a56c67c6054fa55a18c091
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794689870~acl=/*~id=23579875457417936601016615942172~hmac=ba4bf8a9d55dadf5ca4839e2abed76b32e1013cab640d617742cced146754158
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794689260~acl=/*~id=91602482225939350408466079846364~hmac=9965598a43038fe9d5ea5e4ddd77bcdae4a5492bf1a56c67c6054fa55a18c091
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794689870~acl=/*~id=23579875457417936601016615942172~hmac=ba4bf8a9d55dadf5ca4839e2abed76b32e1013cab640d617742cced146754158
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", Pakistan vs India - Final - 14 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794689260~acl=/*~id=91602482225939350408466079846364~hmac=9965598a43038fe9d5ea5e4ddd77bcdae4a5492bf1a56c67c6054fa55a18c091
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794689870~acl=/*~id=23579875457417936601016615942172~hmac=ba4bf8a9d55dadf5ca4839e2abed76b32e1013cab640d617742cced146754158
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg" group-title="SonyLiv-Golf", DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794689870~acl=/*~id=23579875457417936601016615942172~hmac=ba4bf8a9d55dadf5ca4839e2abed76b32e1013cab640d617742cced146754158
