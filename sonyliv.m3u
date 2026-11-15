@@ -1,25 +1,19 @@
 #EXTM3U
-#DATE:- 15-11-2026 09:40
+#DATE:- 15-11-2026 09:45
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 5th ODI - 15 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794758598~acl=/*~id=55891068390192384669584218889427~hmac=fb204dd48a8387567520d1cb44b70120c1bcd2120d8b3c7ff688caab8b135778
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794759217~acl=/*~id=56576068751106914040148430792125~hmac=a03d0859c075f3ea7bcbaed27eb65b2a25f63064dab5cf690bab9148e095b9d7
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 5th ODI - 15 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794758598~acl=/*~id=55891068390192384669584218889427~hmac=fb204dd48a8387567520d1cb44b70120c1bcd2120d8b3c7ff688caab8b135778
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794759217~acl=/*~id=56576068751106914040148430792125~hmac=a03d0859c075f3ea7bcbaed27eb65b2a25f63064dab5cf690bab9148e095b9d7
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 5th ODI - 15 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794758598~acl=/*~id=55891068390192384669584218889427~hmac=fb204dd48a8387567520d1cb44b70120c1bcd2120d8b3c7ff688caab8b135778
-
-#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 5th ODI - 15 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794758598~acl=/*~id=55891068390192384669584218889427~hmac=fb204dd48a8387567520d1cb44b70120c1bcd2120d8b3c7ff688caab8b135778
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794759217~acl=/*~id=56576068751106914040148430792125~hmac=a03d0859c075f3ea7bcbaed27eb65b2a25f63064dab5cf690bab9148e095b9d7
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 5th ODI - 15 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794758598~acl=/*~id=55891068390192384669584218889427~hmac=fb204dd48a8387567520d1cb44b70120c1bcd2120d8b3c7ff688caab8b135778
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794759217~acl=/*~id=56576068751106914040148430792125~hmac=a03d0859c075f3ea7bcbaed27eb65b2a25f63064dab5cf690bab9148e095b9d7
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028975/1794577928244764_UFC-334_live_landscape_thumb.jpg" group-title="SonyLiv-Fight Sports", UFC 334 - Gane vs Hokit - 15 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794758598~acl=/*~id=55891068390192384669584218889427~hmac=fb204dd48a8387567520d1cb44b70120c1bcd2120d8b3c7ff688caab8b135778
-
-#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887707419295_ASIANTOUR2026_Philippine_Open_Day4_landscape_thumb.jpg" group-title="SonyLiv-Golf", Philippine Open - Day 4 - 15 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794758598~acl=/*~id=55891068390192384669584218889427~hmac=fb204dd48a8387567520d1cb44b70120c1bcd2120d8b3c7ff688caab8b135778
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794759217~acl=/*~id=56576068751106914040148430792125~hmac=a03d0859c075f3ea7bcbaed27eb65b2a25f63064dab5cf690bab9148e095b9d7
