@@ -1,19 +1,22 @@
 #EXTM3U
-#DATE:- 21-11-2026 11:30
+#DATE:- 21-11-2026 11:35
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st Test - Day 3 - 21 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795283549~acl=/*~id=39899291255288621380578503306499~hmac=eb7e3d61b5a3fc25db2d598ce44949fcdffaaba06c3dc7998251af44fb201471
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795284155~acl=/*~id=72785574620564077437366695328250~hmac=d9cd7b3e838f0faea75d07e08a4dbf0dfd53465306c4ae817b4b05ffd16eafc1
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st Test - Day 3 - 21 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795283549~acl=/*~id=39899291255288621380578503306499~hmac=eb7e3d61b5a3fc25db2d598ce44949fcdffaaba06c3dc7998251af44fb201471
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795284155~acl=/*~id=72785574620564077437366695328250~hmac=d9cd7b3e838f0faea75d07e08a4dbf0dfd53465306c4ae817b4b05ffd16eafc1
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st Test - Day 3 - 21 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795283549~acl=/*~id=39899291255288621380578503306499~hmac=eb7e3d61b5a3fc25db2d598ce44949fcdffaaba06c3dc7998251af44fb201471
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795284155~acl=/*~id=72785574620564077437366695328250~hmac=d9cd7b3e838f0faea75d07e08a4dbf0dfd53465306c4ae817b4b05ffd16eafc1
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st Test - Day 3 - 21 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795283549~acl=/*~id=39899291255288621380578503306499~hmac=eb7e3d61b5a3fc25db2d598ce44949fcdffaaba06c3dc7998251af44fb201471
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795284155~acl=/*~id=72785574620564077437366695328250~hmac=d9cd7b3e838f0faea75d07e08a4dbf0dfd53465306c4ae817b4b05ffd16eafc1
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st Test - Day 3 - 21 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795283549~acl=/*~id=39899291255288621380578503306499~hmac=eb7e3d61b5a3fc25db2d598ce44949fcdffaaba06c3dc7998251af44fb201471
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795284155~acl=/*~id=72785574620564077437366695328250~hmac=d9cd7b3e838f0faea75d07e08a4dbf0dfd53465306c4ae817b4b05ffd16eafc1
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795284155~acl=/*~id=72785574620564077437366695328250~hmac=d9cd7b3e838f0faea75d07e08a4dbf0dfd53465306c4ae817b4b05ffd16eafc1
