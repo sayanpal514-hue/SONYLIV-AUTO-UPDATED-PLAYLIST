@@ -1,19 +1,22 @@
 #EXTM3U
-#DATE:- 21-11-2026 10:55
+#DATE:- 21-11-2026 11:00
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st Test - Day 3 - 21 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795281118~acl=/*~id=75781761971125809480486835561859~hmac=e9365697972cd932f628977cefe1187e0a6e4f9ed9803c63b4c999e5cfc9fd33
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795281727~acl=/*~id=47497176902834859340695213579950~hmac=9f39564992d8a0f511e076e46cf654f74237522fe8cfd18fb34376c23f8d6f3b
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st Test - Day 3 - 21 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795281118~acl=/*~id=75781761971125809480486835561859~hmac=e9365697972cd932f628977cefe1187e0a6e4f9ed9803c63b4c999e5cfc9fd33
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795281727~acl=/*~id=47497176902834859340695213579950~hmac=9f39564992d8a0f511e076e46cf654f74237522fe8cfd18fb34376c23f8d6f3b
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st Test - Day 3 - 21 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795281118~acl=/*~id=75781761971125809480486835561859~hmac=e9365697972cd932f628977cefe1187e0a6e4f9ed9803c63b4c999e5cfc9fd33
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795281727~acl=/*~id=47497176902834859340695213579950~hmac=9f39564992d8a0f511e076e46cf654f74237522fe8cfd18fb34376c23f8d6f3b
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st Test - Day 3 - 21 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795281118~acl=/*~id=75781761971125809480486835561859~hmac=e9365697972cd932f628977cefe1187e0a6e4f9ed9803c63b4c999e5cfc9fd33
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795281727~acl=/*~id=47497176902834859340695213579950~hmac=9f39564992d8a0f511e076e46cf654f74237522fe8cfd18fb34376c23f8d6f3b
 
 #EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="SonyLiv-Cricket", 1st Test - Day 3 - 21 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795281118~acl=/*~id=75781761971125809480486835561859~hmac=e9365697972cd932f628977cefe1187e0a6e4f9ed9803c63b4c999e5cfc9fd33
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795281727~acl=/*~id=47497176902834859340695213579950~hmac=9f39564992d8a0f511e076e46cf654f74237522fe8cfd18fb34376c23f8d6f3b
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795281727~acl=/*~id=47497176902834859340695213579950~hmac=9f39564992d8a0f511e076e46cf654f74237522fe8cfd18fb34376c23f8d6f3b
