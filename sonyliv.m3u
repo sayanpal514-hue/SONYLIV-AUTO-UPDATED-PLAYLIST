@@ -1,19 +1,4 @@
 #EXTM3U
-#DATE:- 23-11-2026 01:10
+#DATE:- 23-11-2026 01:15
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
-
-#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", India A vs Pakistan Shaheens - 22 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795419059~acl=/*~id=28050719730469467935682394011196~hmac=ccdcf442bc57933f4383444daa98cf44ff783c77b8fc397f253c33e485e980c1
-
-#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", India A vs Pakistan Shaheens - 22 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795419059~acl=/*~id=28050719730469467935682394011196~hmac=ccdcf442bc57933f4383444daa98cf44ff783c77b8fc397f253c33e485e980c1
-
-#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", India A vs Pakistan Shaheens - 22 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795419059~acl=/*~id=28050719730469467935682394011196~hmac=ccdcf442bc57933f4383444daa98cf44ff783c77b8fc397f253c33e485e980c1
-
-#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", India A vs Pakistan Shaheens - 22 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795419059~acl=/*~id=28050719730469467935682394011196~hmac=ccdcf442bc57933f4383444daa98cf44ff783c77b8fc397f253c33e485e980c1
-
-#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="SonyLiv-Cricket", India A vs Pakistan Shaheens - 22 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795419059~acl=/*~id=28050719730469467935682394011196~hmac=ccdcf442bc57933f4383444daa98cf44ff783c77b8fc397f253c33e485e980c1
