@@ -1,4 +1,10 @@
 #EXTM3U
-#DATE:- 24-11-2026 22:40
+#DATE:- 24-11-2026 22:45
 # Written and Directed by sayan
 # Join us on Telegram: t.me/sportlink10
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795313030813444_UCL26_MD5_Bodo_vs_LASK_landscape_thumb.jpg" group-title="SonyLiv-Football", Bodø/Glimt vs LASK - 24 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795583516~acl=/*~id=79441961725437302032849681826420~hmac=4ba880a02738c49b04c0a8c56acd9f6d857868b96e6f911c0e4903585eb8fed0
+
+#EXTINF:-1, tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795314761395444_UCL26_MD5_Galatasaray_vs_Aston_Villa_landscape_thumb.jpg" group-title="SonyLiv-Football", Galatasaray vs Aston Villa - 24 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795583516~acl=/*~id=79441961725437302032849681826420~hmac=4ba880a02738c49b04c0a8c56acd9f6d857868b96e6f911c0e4903585eb8fed0
